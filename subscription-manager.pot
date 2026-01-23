@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-30 11:07+0200\n"
+"POT-Creation-Date: 2026-01-23 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.metainfo.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-30 11:07+0200\n"
+"POT-Creation-Date: 2026-01-23 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.desktop.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-30 11:07+0200\n"
+"POT-Creation-Date: 2026-01-23 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,197 +66,146 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/insights.jsx:528
-msgid "$0 critical hit"
-msgid_plural "$0 hits, including critical"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:549
-msgid "$0 hit"
-msgid_plural "$0 hits"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:533
-msgid "$0 important hit"
-msgid_plural "$0 hits, including important"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:543
-msgid "$0 low severity hit"
-msgid_plural "$0 low severity hits"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:538
-msgid "$0 moderate hit"
-msgid_plural "$0 hits, including moderate"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:166
+#: src/insights.jsx:187
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/subscriptions-client.js:229
+#: src/subscriptions-client.js:228
 msgid "'Organization' is required when using activation keys"
 msgstr ""
 
-#: src/subscriptions-view.jsx:514
+#: src/subscriptions-view.jsx:541
 msgid "Access denied"
 msgstr ""
 
-#: src/subscriptions-register.jsx:163
+#: src/subscriptions-register.jsx:172
 msgid "Account"
 msgstr ""
 
-#: src/subscriptions-register.jsx:127
+#: src/subscriptions-register.jsx:130
 msgid "Activation Key"
 msgstr ""
 
-#: src/subscriptions-register.jsx:168
+#: src/subscriptions-register.jsx:178
 msgid "Activation key"
 msgstr ""
 
-#: src/subscriptions-view.jsx:363
+#: src/subscriptions-view.jsx:288
 msgid "Add-ons"
 msgstr ""
 
-#: src/insights.jsx:180
+#: src/insights.jsx:201
 msgid "Additional packages:"
 msgstr ""
 
-#: src/subscriptions-view.jsx:187
+#: src/subscriptions-view.jsx:151
 msgid "Arch"
 msgstr ""
 
-#: src/subscriptions-register.jsx:176
-msgid "Attach automatically"
-msgstr ""
-
-#: src/subscriptions-view.jsx:42 src/subscriptions-view.jsx:61
-#: src/subscriptions-view.jsx:67
-msgid "Auto-attach"
-msgstr ""
-
-#: src/subscriptions-view.jsx:55
-msgid "Auto-attaching ..."
-msgstr ""
-
-#: src/insights.jsx:450
+#: src/insights.jsx:468
 msgid "Cancel"
 msgstr ""
 
-#: src/insights.jsx:207 src/insights.jsx:302
+#: src/insights.jsx:229 src/insights.jsx:324
 msgid "Checking installed software"
 msgstr ""
 
-#: src/insights.jsx:442 src/insights.jsx:461
+#: src/insights.jsx:460 src/insights.jsx:479
 msgid "Close"
 msgstr ""
 
-#: src/insights.jsx:254
+#: src/insights.jsx:276
 msgid "Connect"
 msgstr ""
 
-#: src/subscriptions-register.jsx:87
+#: src/subscriptions-register.jsx:85
 msgid "Connect this system to $0."
 msgstr ""
 
-#: src/insights.jsx:241
+#: src/insights.jsx:263
 msgid "Connect to Red Hat Insights"
 msgstr ""
 
-#: src/insights.jsx:562
+#: src/insights.jsx:522
 msgid "Connected to Insights"
 msgstr ""
 
-#: src/insights.jsx:402
+#: src/insights.jsx:421
 msgid "Connected to Red Hat Insights"
 msgstr ""
 
-#: src/insights.jsx:100
+#: src/insights.jsx:119
 msgid "Connecting to Insights"
 msgstr ""
 
-#: src/subscriptions-view.jsx:422
-msgid ""
-"Content Access Mode is set to Simple Content Access. This host has access to "
-"content, regardless of subscription status."
-msgstr ""
-
-#: src/subscriptions-view.jsx:307
-msgid ""
-"Content Access Mode is set to Simple Content Access. This host has access to "
-"content, regardless of system purpose status."
-msgstr ""
-
-#: src/subscriptions-client.js:529
+#: src/subscriptions-client.js:506
 msgid "Corrupted JSON with status"
 msgstr ""
 
-#: src/subscriptions-view.jsx:519
+#: src/subscriptions-view.jsx:546
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
 msgstr ""
 
-#: src/subscriptions-register.jsx:143
+#: src/subscriptions-register.jsx:148
 msgid "Custom URL"
 msgstr ""
 
-#: src/subscriptions-register.jsx:142
+#: src/subscriptions-register.jsx:147
 msgid "Default"
 msgstr ""
 
-#: src/insights.jsx:194 src/insights.jsx:422 src/insights.jsx:427
+#: src/insights.jsx:216 src/insights.jsx:440 src/insights.jsx:444
 msgid "Details"
 msgstr ""
 
-#: src/insights.jsx:430 src/insights.jsx:434
+#: src/insights.jsx:446 src/insights.jsx:452
 msgid "Disconnect from Insights"
 msgstr ""
 
-#: src/insights.jsx:220
+#: src/insights.jsx:242
 msgid "Downloading $0"
 msgstr ""
 
-#: src/subscriptions-view.jsx:203
+#: src/subscriptions-view.jsx:167
 msgid "Ends"
 msgstr ""
 
-#: src/insights.jsx:432
+#: src/insights.jsx:87
+msgid "Error"
+msgstr ""
+
+#: src/insights.jsx:449
 msgid ""
 "If you disconnect this system from Insights, it will no longer report its "
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
 
-#: src/insights.jsx:579 src/subscriptions-register.jsx:85
+#: src/insights.jsx:531 src/subscriptions-register.jsx:82
 msgid "Insights"
 msgstr ""
 
-#: src/subscriptions-view.jsx:226 src/subscriptions-view.jsx:230
+#: src/subscriptions-view.jsx:190 src/subscriptions-view.jsx:193
 msgid "Installed products"
 msgstr ""
 
-#: src/insights.jsx:224
+#: src/insights.jsx:246
 msgid "Installing $0"
 msgstr ""
 
-#: src/insights.jsx:413
+#: src/insights.jsx:432
 msgid "Last Insights data upload"
 msgstr ""
 
-#: src/subscriptions-client.js:284
+#: src/subscriptions-client.js:287
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 
-#: src/subscriptions-client.js:251
+#: src/subscriptions-client.js:252
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
@@ -270,94 +219,86 @@ msgstr ""
 msgid "Managing subscriptions"
 msgstr ""
 
-#: src/subscriptions-register.jsx:159
+#: src/subscriptions-register.jsx:168
 msgid "Method"
 msgstr ""
 
-#: src/insights.jsx:408
+#: src/insights.jsx:427
 msgid "Next Insights data upload"
 msgstr ""
 
-#: src/subscriptions-view.jsx:233
+#: src/subscriptions-view.jsx:196
 msgid "No installed products detected"
 msgstr ""
 
-#: src/insights.jsx:520
-msgid "No rule hits"
-msgstr ""
-
-#: src/subscriptions-view.jsx:381
+#: src/subscriptions-view.jsx:298
 msgid "No system purpose attributes set"
 msgstr ""
 
-#: src/insights.jsx:574
+#: src/insights.jsx:526
 msgid "Not connected"
 msgstr ""
 
-#: src/subscriptions-view.jsx:406
+#: src/subscriptions-view.jsx:318
 msgid "Not registered"
 msgstr ""
 
-#: src/subscriptions-view.jsx:121
+#: src/subscriptions-view.jsx:83
 msgid "Not subscribed"
 msgstr ""
 
-#: src/subscriptions-view.jsx:123
+#: src/subscriptions-view.jsx:85
 msgid "Not subscribed ($0)"
 msgstr ""
 
-#: src/subscriptions-view.jsx:462 src/subscriptions-register.jsx:117
+#: src/subscriptions-register.jsx:119 src/subscriptions-view.jsx:351
 msgid "Organization"
 msgstr ""
 
-#: src/subscriptions-register.jsx:132
+#: src/subscriptions-register.jsx:136
 msgid "Organization ID"
 msgstr ""
 
-#: src/subscriptions-view.jsx:449
+#: src/subscriptions-view.jsx:339
 msgid "Overview"
 msgstr ""
 
-#: src/subscriptions-view.jsx:115
+#: src/subscriptions-view.jsx:77
 msgid "Partially subscribed"
 msgstr ""
 
-#: src/subscriptions-view.jsx:117
+#: src/subscriptions-view.jsx:79
 msgid "Partially subscribed ($0)"
 msgstr ""
 
-#: src/subscriptions-register.jsx:112
+#: src/subscriptions-register.jsx:111
 msgid "Password"
 msgstr ""
 
-#: src/subscriptions-view.jsx:313 src/subscriptions-view.jsx:428
-msgid "Popover with explanation of SCA mode"
-msgstr ""
-
-#: src/insights.jsx:138
+#: src/insights.jsx:157
 msgid ""
 "Proactively identify and remediate threats to security, performance, "
 "availability, and stability with Red Hat Insights — with predictive "
 "analytics, avoid problems and unplanned downtime in your Red Hat environment."
 msgstr ""
 
-#: src/subscriptions-view.jsx:179
+#: src/subscriptions-view.jsx:143
 msgid "Product ID"
 msgstr ""
 
-#: src/subscriptions-view.jsx:74 src/subscriptions-view.jsx:175
+#: src/subscriptions-view.jsx:49 src/subscriptions-view.jsx:139
 msgid "Product name"
 msgstr ""
 
-#: src/subscriptions-register.jsx:55
+#: src/subscriptions-register.jsx:56
 msgid "Proxy Location"
 msgstr ""
 
-#: src/subscriptions-register.jsx:67
+#: src/subscriptions-register.jsx:70
 msgid "Proxy Password"
 msgstr ""
 
-#: src/subscriptions-register.jsx:61
+#: src/subscriptions-register.jsx:63
 msgid "Proxy Username"
 msgstr ""
 
@@ -365,64 +306,67 @@ msgstr ""
 msgid "Red Hat Subscription Manager"
 msgstr ""
 
-#: src/subscriptions-view.jsx:408 src/index.js:64
+#: src/subscriptions-view.jsx:320 src/subscriptions-view.jsx:414
 msgid "Register"
 msgstr ""
 
-#: src/index.js:100
+#: src/subscriptions-view.jsx:484
 msgid "Register System"
 msgstr ""
 
-#: src/subscriptions-client.js:340
+#: src/subscriptions-view.jsx:324
+msgid "Registered"
+msgstr ""
+
+#: src/subscriptions-client.js:342
 msgid "Registering using activation key ..."
 msgstr ""
 
-#: src/subscriptions-client.js:362
+#: src/subscriptions-client.js:363
 msgid "Registering using username and password ..."
 msgstr ""
 
-#: src/insights.jsx:188
+#: src/insights.jsx:209
 msgid "Removals:"
 msgstr ""
 
-#: src/insights.jsx:222
+#: src/insights.jsx:244
 msgid "Removing $0"
 msgstr ""
 
-#: src/subscriptions-view.jsx:507
+#: src/subscriptions-view.jsx:526
 msgid "Retrieving subscription status..."
 msgstr ""
 
-#: src/subscriptions-view.jsx:357
+#: src/subscriptions-view.jsx:283
 msgid "Role"
 msgstr ""
 
-#: src/subscriptions-client.js:415
+#: src/subscriptions-client.js:416
 msgid "Saving configuration ..."
 msgstr ""
 
-#: src/subscriptions-view.jsx:345
+#: src/subscriptions-view.jsx:273
 msgid "Service level"
 msgstr ""
 
-#: src/subscriptions-client.js:321
+#: src/subscriptions-client.js:323
 msgid "Starting registration service ..."
 msgstr ""
 
-#: src/subscriptions-view.jsx:199
+#: src/subscriptions-view.jsx:163
 msgid "Starts"
 msgstr ""
 
-#: src/subscriptions-view.jsx:195 src/subscriptions-view.jsx:339
-#: src/subscriptions-view.jsx:374
+#: src/subscriptions-view.jsx:159 src/subscriptions-view.jsx:344
 msgid "Status"
 msgstr ""
 
-#: src/subscriptions-client.js:391
+#: src/subscriptions-client.js:392
 msgid "Stopping registration service ..."
 msgstr ""
 
-#: src/subscriptions-view.jsx:111
+#: src/subscriptions-view.jsx:73
 msgid "Subscribed"
 msgstr ""
 
@@ -434,119 +378,107 @@ msgstr ""
 msgid "Subscription Manager in Cockpit"
 msgstr ""
 
-#: src/subscriptions-view.jsx:455
-msgid "Subscription status"
-msgstr ""
-
-#: src/index.html:22 src/subscriptions-register.jsx:174 src/manifest.json:0
+#: src/index.html:22 src/manifest.json:0
 msgid "Subscriptions"
 msgstr ""
 
-#: src/subscriptions-view.jsx:320 src/subscriptions-view.jsx:435
-msgid "Subscriptions information"
-msgstr ""
-
-#: src/subscriptions-view.jsx:392
+#: src/subscriptions-view.jsx:307
 msgid "System purpose"
 msgstr ""
 
-#: src/insights.jsx:158
+#: src/insights.jsx:179
 msgid "The $0 package and $1 other package will be installed."
 msgid_plural "The $0 package and $1 other packages will be installed."
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/insights.jsx:84 src/insights.jsx:310
+#: src/insights.jsx:103 src/insights.jsx:332
 msgid "The $0 package is not available from any repository."
 msgstr ""
 
-#: src/insights.jsx:156 src/subscriptions-register.jsx:94
+#: src/insights.jsx:177 src/subscriptions-register.jsx:92
 msgid "The $0 package will be installed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:515
+#: src/subscriptions-view.jsx:542
 msgid "The current user isn't allowed to access system subscription status."
 msgstr ""
 
-#: src/insights.jsx:397
+#: src/insights.jsx:416
 msgid "The last Insights data upload has failed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:509
+#: src/subscriptions-view.jsx:538
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
 "and try reloading the page. Additionally, make sure that you have checked "
 "the 'Reuse my password for privileged tasks' checkbox on the login page."
 msgstr ""
 
-#: src/insights.jsx:87
+#: src/insights.jsx:106
 msgid ""
 "The system could not be connected to Insights because installing the $0 "
 "package requires the unexpected removal of other packages."
 msgstr ""
 
-#: src/insights.jsx:244
+#: src/insights.jsx:266
 msgid "This system is not connected to $0."
 msgstr ""
 
-#: src/subscriptions-register.jsx:147
+#: src/subscriptions-register.jsx:152
 msgid "URL"
 msgstr ""
 
-#: src/subscriptions-view.jsx:517
+#: src/subscriptions-view.jsx:544
 msgid "Unable to connect"
 msgstr ""
 
-#: src/subscriptions-view.jsx:512
+#: src/subscriptions-view.jsx:539
 msgid "Unable to the reach the rhsm service."
 msgstr ""
 
-#: src/subscriptions-view.jsx:133 src/subscriptions-view.jsx:139
-#: src/subscriptions-client.js:545
+#: src/subscriptions-client.js:47 src/subscriptions-client.js:528
+#: src/subscriptions-view.jsx:95 src/subscriptions-view.jsx:101
 msgid "Unknown"
 msgstr ""
 
-#: src/subscriptions-view.jsx:128
+#: src/subscriptions-view.jsx:90
 msgid "Unknown status"
 msgstr ""
 
-#: src/subscriptions-view.jsx:415
+#: src/subscriptions-view.jsx:330
 msgid "Unregister"
 msgstr ""
 
-#: src/subscriptions-view.jsx:415 src/subscriptions-client.js:453
+#: src/subscriptions-client.js:449 src/subscriptions-view.jsx:330
 msgid "Unregistering"
 msgstr ""
 
-#: src/subscriptions-view.jsx:506
+#: src/subscriptions-view.jsx:525
 msgid "Updating"
 msgstr ""
 
-#: src/subscriptions-client.js:435
+#: src/subscriptions-client.js:436
 msgid "Updating status ..."
 msgstr ""
 
-#: src/subscriptions-view.jsx:351
+#: src/subscriptions-view.jsx:278
 msgid "Usage"
 msgstr ""
 
-#: src/subscriptions-register.jsx:155
+#: src/subscriptions-register.jsx:163
 msgid "Use proxy server"
 msgstr ""
 
-#: src/subscriptions-register.jsx:107
+#: src/subscriptions-register.jsx:105
 msgid "Username"
 msgstr ""
 
-#: src/subscriptions-view.jsx:183
+#: src/subscriptions-view.jsx:147
 msgid "Version"
 msgstr ""
 
-#: src/insights.jsx:556
-msgid "View your Insights results"
-msgstr ""
-
-#: src/insights.jsx:205 src/insights.jsx:216 src/insights.jsx:300
+#: src/insights.jsx:227 src/insights.jsx:238 src/insights.jsx:322
 msgid "Waiting for other software management operations to finish"
 msgstr ""
 
@@ -554,7 +486,15 @@ msgstr ""
 msgid "candlepin"
 msgstr ""
 
-#: src/subscriptions-client.js:492
+#: src/subscriptions-register.jsx:58
+msgid "hostname:port"
+msgstr ""
+
+#: src/subscriptions-register.jsx:132
+msgid "key_one,key_two"
+msgstr ""
+
+#: src/subscriptions-client.js:470
 msgid "not-found"
 msgstr ""
 
@@ -562,6 +502,6 @@ msgstr ""
 msgid "subscriptions"
 msgstr ""
 
-#: src/insights.jsx:344
+#: src/insights.jsx:366
 msgid "unknown"
 msgstr ""
