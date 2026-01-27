@@ -21,15 +21,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-01-27 21:18+0000\n"
+"Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit/"
+"subscription-manager-cockpit/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Cockpit manifest2po\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: src/insights.jsx:528
 msgid "$0 critical hit"
@@ -64,40 +65,40 @@ msgstr[1] ""
 #: src/insights.jsx:166
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 paketin kaldırılması gerekiyor."
+msgstr[1] "$0 paketin kaldırılması gerekiyor."
 
 #: src/subscriptions-client.js:229
 msgid "'Organization' is required when using activation keys"
-msgstr ""
+msgstr "Etkinleştirme anahtarlarını kullanırken 'Kuruluş' gereklidir"
 
 #: src/subscriptions-view.jsx:514
 msgid "Access denied"
-msgstr ""
+msgstr "Erişim engellendi"
 
 #: src/subscriptions-register.jsx:163
 msgid "Account"
-msgstr ""
+msgstr "Hesap"
 
 #: src/subscriptions-register.jsx:127
 msgid "Activation Key"
-msgstr ""
+msgstr "Etkinleştirme Anahtarı"
 
 #: src/subscriptions-register.jsx:168
 msgid "Activation key"
-msgstr ""
+msgstr "Etkinleştirme anahtarı"
 
 #: src/subscriptions-view.jsx:363
 msgid "Add-ons"
-msgstr ""
+msgstr "Eklenti"
 
 #: src/insights.jsx:180
 msgid "Additional packages:"
-msgstr ""
+msgstr "Ek paketler:"
 
 #: src/subscriptions-view.jsx:187
 msgid "Arch"
-msgstr ""
+msgstr "Kemer"
 
 #: src/subscriptions-register.jsx:176
 msgid "Attach automatically"
@@ -114,39 +115,39 @@ msgstr ""
 
 #: src/insights.jsx:450
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: src/insights.jsx:207 src/insights.jsx:302
 msgid "Checking installed software"
-msgstr ""
+msgstr "Kurulu yazılımlar denetleniyor"
 
 #: src/insights.jsx:442 src/insights.jsx:461
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: src/insights.jsx:254
 msgid "Connect"
-msgstr ""
+msgstr "Bağlan"
 
 #: src/subscriptions-register.jsx:87
 msgid "Connect this system to $0."
-msgstr ""
+msgstr "Bu sistemi $0 cihazına bağlayın."
 
 #: src/insights.jsx:241
 msgid "Connect to Red Hat Insights"
-msgstr ""
+msgstr "Red Hat Insights'a bağlan"
 
 #: src/insights.jsx:562
 msgid "Connected to Insights"
-msgstr ""
+msgstr "Insights'a bağlanıldı"
 
 #: src/insights.jsx:402
 msgid "Connected to Red Hat Insights"
-msgstr ""
+msgstr "Red Hat Insights'a bağlanıldı"
 
 #: src/insights.jsx:100
 msgid "Connecting to Insights"
-msgstr ""
+msgstr "Insights'a bağlanılıyor"
 
 #: src/subscriptions-view.jsx:422
 msgid ""
@@ -162,7 +163,7 @@ msgstr ""
 
 #: src/subscriptions-client.js:529
 msgid "Corrupted JSON with status"
-msgstr ""
+msgstr "Bozuk JSON durumu"
 
 #: src/subscriptions-view.jsx:519
 msgid ""
