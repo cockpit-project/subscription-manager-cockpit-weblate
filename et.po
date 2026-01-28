@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 09:26+0000\n"
-"PO-Revision-Date: 2026-01-27 21:18+0000\n"
+"PO-Revision-Date: 2026-01-29 11:58+0000\n"
 "Last-Translator: Priit Jõerüüt "
 "<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
@@ -36,40 +36,40 @@ msgstr ""
 #: src/insights.jsx:187
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 pakett vajab eemaldamist."
+msgstr[1] "$0 paketti vajavad eemaldamist."
 
 #: src/subscriptions-client.js:228
 msgid "'Organization' is required when using activation keys"
-msgstr ""
+msgstr "Aktiveerimisvõtmete puhul on „Organisatsioon“ vajalik"
 
 #: src/subscriptions-view.jsx:541
 msgid "Access denied"
-msgstr ""
+msgstr "Ligipääs on keelatud"
 
 #: src/subscriptions-register.jsx:172
 msgid "Account"
-msgstr ""
+msgstr "Kasutajakonto"
 
 #: src/subscriptions-register.jsx:130
 msgid "Activation Key"
-msgstr ""
+msgstr "Aktiveerimisvõti"
 
 #: src/subscriptions-register.jsx:178
 msgid "Activation key"
-msgstr ""
+msgstr "Aktiveerimisvõti"
 
 #: src/subscriptions-view.jsx:288
 msgid "Add-ons"
-msgstr ""
+msgstr "Lisamoodulid"
 
 #: src/insights.jsx:201
 msgid "Additional packages:"
-msgstr ""
+msgstr "Lisapaketid:"
 
 #: src/subscriptions-view.jsx:151
 msgid "Arch"
-msgstr ""
+msgstr "Arhitektuur"
 
 #: src/insights.jsx:468
 msgid "Cancel"
@@ -77,7 +77,7 @@ msgstr "Katkesta"
 
 #: src/insights.jsx:229 src/insights.jsx:324
 msgid "Checking installed software"
-msgstr ""
+msgstr "Kontrollin paigaldatud tarkvara"
 
 #: src/insights.jsx:460 src/insights.jsx:479
 msgid "Close"
@@ -89,7 +89,7 @@ msgstr "Ühenda"
 
 #: src/subscriptions-register.jsx:85
 msgid "Connect this system to $0."
-msgstr ""
+msgstr "Ühenda see süsteem: $0."
 
 #: src/insights.jsx:263
 msgid "Connect to Red Hat Insights"
