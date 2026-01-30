@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-01-27 21:18+0000\n"
+"PO-Revision-Date: 2026-01-31 04:06+0000\n"
 "Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit/"
 "subscription-manager-cockpit/tr/>\n"
@@ -170,83 +170,92 @@ msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
 msgstr ""
+"Sistem abonelik durumu alınamadı. Lütfen abonelik yöneticisinin kurulu "
+"olduğundan emin olun. Bildirilen durum: $0 ($1)"
 
 #: src/subscriptions-register.jsx:143
 msgid "Custom URL"
-msgstr ""
+msgstr "Özel URL"
 
 #: src/subscriptions-register.jsx:142
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #: src/insights.jsx:194 src/insights.jsx:422 src/insights.jsx:427
 msgid "Details"
-msgstr ""
+msgstr "Ayrıntılar"
 
 #: src/insights.jsx:430 src/insights.jsx:434
 msgid "Disconnect from Insights"
-msgstr ""
+msgstr "Insights bağlantısını kes"
 
 #: src/insights.jsx:220
 msgid "Downloading $0"
-msgstr ""
+msgstr "$0 indiriliyor"
 
 #: src/subscriptions-view.jsx:203
 msgid "Ends"
-msgstr ""
+msgstr "Bitiş"
 
 #: src/insights.jsx:432
 msgid ""
 "If you disconnect this system from Insights, it will no longer report its "
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
+"Eğer bu sistemin Insights ile olan bağlantısını keserseniz, sistem artık "
+"Insights durumunu Red Hat Cloud veya Satellite'a raporlamayacaktır."
 
 #: src/insights.jsx:579 src/subscriptions-register.jsx:85
 msgid "Insights"
-msgstr ""
+msgstr "Insights"
 
 #: src/subscriptions-view.jsx:226 src/subscriptions-view.jsx:230
 msgid "Installed products"
-msgstr ""
+msgstr "Kurulu ürünler"
 
 #: src/insights.jsx:224
 msgid "Installing $0"
-msgstr ""
+msgstr "$0 kuruluyor"
 
 #: src/insights.jsx:413
 msgid "Last Insights data upload"
-msgstr ""
+msgstr "Son Insights verilerini yükleme"
 
 #: src/subscriptions-client.js:284
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
+"Kusurlu proksi URL'si; IPv6 adresi sözdizimi ve anamakine adı birbirini "
+"dışlar"
 
 #: src/subscriptions-client.js:251
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
+"Kusurlu sunucu URL'si; IPv6 adresi sözdizimi ve anamakine adı birbirini "
+"dışlar"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:8
 msgid ""
 "Manage subscriptions to a Candlepin backend, such as for Red Hat products."
 msgstr ""
+"Red Hat ürünleri gibi bir Candlepin arka ucuna yönelik abonelikleri yönetin."
 
 #: src/manifest.json:0
 msgid "Managing subscriptions"
-msgstr ""
+msgstr "Abonelikleri yönetme"
 
 #: src/subscriptions-register.jsx:159
 msgid "Method"
-msgstr ""
+msgstr "Yöntem"
 
 #: src/insights.jsx:408
 msgid "Next Insights data upload"
-msgstr ""
+msgstr "Sonraki Insights verilerini yükleme"
 
 #: src/subscriptions-view.jsx:233
 msgid "No installed products detected"
-msgstr ""
+msgstr "Algılanan kurulu ürünler yok"
 
 #: src/insights.jsx:520
 msgid "No rule hits"
@@ -254,47 +263,47 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:381
 msgid "No system purpose attributes set"
-msgstr ""
+msgstr "Ayarlı sistem amaçlı öznitelikler yok"
 
 #: src/insights.jsx:574
 msgid "Not connected"
-msgstr ""
+msgstr "Bağlı değil"
 
 #: src/subscriptions-view.jsx:406
 msgid "Not registered"
-msgstr ""
+msgstr "Kayıtlı değil"
 
 #: src/subscriptions-view.jsx:121
 msgid "Not subscribed"
-msgstr ""
+msgstr "Abone olunmadı"
 
 #: src/subscriptions-view.jsx:123
 msgid "Not subscribed ($0)"
-msgstr ""
+msgstr "Abone olunmadı ($0)"
 
 #: src/subscriptions-view.jsx:462 src/subscriptions-register.jsx:117
 msgid "Organization"
-msgstr ""
+msgstr "Kuruluş"
 
 #: src/subscriptions-register.jsx:132
 msgid "Organization ID"
-msgstr ""
+msgstr "Kuruluş kimliği"
 
 #: src/subscriptions-view.jsx:449
 msgid "Overview"
-msgstr ""
+msgstr "Genel bakış"
 
 #: src/subscriptions-view.jsx:115
 msgid "Partially subscribed"
-msgstr ""
+msgstr "Kısmen abone olundu"
 
 #: src/subscriptions-view.jsx:117
 msgid "Partially subscribed ($0)"
-msgstr ""
+msgstr "Kısmen abone olundu ($0)"
 
 #: src/subscriptions-register.jsx:112
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #: src/subscriptions-view.jsx:313 src/subscriptions-view.jsx:428
 msgid "Popover with explanation of SCA mode"
