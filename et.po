@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 09:26+0000\n"
-"PO-Revision-Date: 2026-01-29 11:58+0000\n"
+"PO-Revision-Date: 2026-02-02 07:58+0000\n"
 "Last-Translator: Priit Jõerüüt "
 "<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
@@ -150,6 +150,8 @@ msgid ""
 "If you disconnect this system from Insights, it will no longer report its "
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
+"Kui eemaldad selle süsteemi Insights-teenusest, siis ta enam ei teavita enda "
+"Insightsi olekut Red Hat Cloudi või Satellite'i teenustele ."
 
 #: src/insights.jsx:531 src/subscriptions-register.jsx:82
 msgid "Insights"
@@ -165,7 +167,7 @@ msgstr "$0 on paigaldamisel"
 
 #: src/insights.jsx:432
 msgid "Last Insights data upload"
-msgstr ""
+msgstr "Viimane Insightsi andmete üleslaadimine"
 
 #: src/subscriptions-client.js:287
 msgid ""
@@ -192,39 +194,39 @@ msgstr "Meetod"
 
 #: src/insights.jsx:427
 msgid "Next Insights data upload"
-msgstr "Viimane Insightsi andmete üleslaadimine"
+msgstr "Järgmine Insightsi andmete üleslaadimine"
 
 #: src/subscriptions-view.jsx:196
 msgid "No installed products detected"
-msgstr ""
+msgstr "Ühtegi paigaldatud toodet ei õnnestunud tuvastada"
 
 #: src/subscriptions-view.jsx:298
 msgid "No system purpose attributes set"
-msgstr ""
+msgstr "Süsteemi eesmärgi andmed pole sisestatud"
 
 #: src/insights.jsx:526
 msgid "Not connected"
-msgstr ""
+msgstr "Pole ühendatud"
 
 #: src/subscriptions-view.jsx:318
 msgid "Not registered"
-msgstr ""
+msgstr "Pole registreeritud"
 
 #: src/subscriptions-view.jsx:83
 msgid "Not subscribed"
-msgstr ""
+msgstr "Tellimus puudub"
 
 #: src/subscriptions-view.jsx:85
 msgid "Not subscribed ($0)"
-msgstr ""
+msgstr "Tellimus puudub ($0)"
 
 #: src/subscriptions-register.jsx:119 src/subscriptions-view.jsx:351
 msgid "Organization"
-msgstr ""
+msgstr "Organisatsioon"
 
 #: src/subscriptions-register.jsx:136
 msgid "Organization ID"
-msgstr ""
+msgstr "Organisatsiooni tunnus"
 
 #: src/subscriptions-view.jsx:339
 msgid "Overview"
@@ -232,11 +234,11 @@ msgstr "Ülevaade"
 
 #: src/subscriptions-view.jsx:77
 msgid "Partially subscribed"
-msgstr ""
+msgstr "Osaliselt tellitud"
 
 #: src/subscriptions-view.jsx:79
 msgid "Partially subscribed ($0)"
-msgstr ""
+msgstr "Osaliselt tellitud ($0)"
 
 #: src/subscriptions-register.jsx:111
 msgid "Password"
@@ -251,51 +253,51 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:143
 msgid "Product ID"
-msgstr ""
+msgstr "Toote tunnus"
 
 #: src/subscriptions-view.jsx:49 src/subscriptions-view.jsx:139
 msgid "Product name"
-msgstr ""
+msgstr "Tootenimi"
 
 #: src/subscriptions-register.jsx:56
 msgid "Proxy Location"
-msgstr ""
+msgstr "Proksi aadress"
 
 #: src/subscriptions-register.jsx:70
 msgid "Proxy Password"
-msgstr ""
+msgstr "Proksi salasõna"
 
 #: src/subscriptions-register.jsx:63
 msgid "Proxy Username"
-msgstr ""
+msgstr "Proksi kasutajanimi"
 
 #: data/subscription-manager-cockpit.desktop:3
 msgid "Red Hat Subscription Manager"
-msgstr ""
+msgstr "Red Hati tellimuste haldur"
 
 #: src/subscriptions-view.jsx:320 src/subscriptions-view.jsx:414
 msgid "Register"
-msgstr ""
+msgstr "Registreeri"
 
 #: src/subscriptions-view.jsx:484
 msgid "Register System"
-msgstr ""
+msgstr "Registreeri see süsteem"
 
 #: src/subscriptions-view.jsx:324
 msgid "Registered"
-msgstr ""
+msgstr "Registreeritud"
 
 #: src/subscriptions-client.js:342
 msgid "Registering using activation key ..."
-msgstr ""
+msgstr "Registreerin kasutades aktiveerimisvõtit..."
 
 #: src/subscriptions-client.js:363
 msgid "Registering using username and password ..."
-msgstr ""
+msgstr "Registreerin kasutades kasutajanime ja salasõna..."
 
 #: src/insights.jsx:209
 msgid "Removals:"
-msgstr ""
+msgstr "Eemaldamised:"
 
 #: src/insights.jsx:244
 msgid "Removing $0"
