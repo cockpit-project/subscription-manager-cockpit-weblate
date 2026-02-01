@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-01-31 04:06+0000\n"
+"PO-Revision-Date: 2026-02-02 07:58+0000\n"
 "Last-Translator: Burak Yavuz <hitowerdigit@hotmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/cockpit/"
 "subscription-manager-cockpit/tr/>\n"
@@ -315,99 +315,103 @@ msgid ""
 "availability, and stability with Red Hat Insights — with predictive "
 "analytics, avoid problems and unplanned downtime in your Red Hat environment."
 msgstr ""
+"Red Hat Insights ile güvenliğe, performansa, kullanılabilirliğe ve "
+"kararlılığa yönelik tehditleri proaktif olarak tanımlayın ve düzeltin — "
+"tahmine dayalı çözümlemelerle Red Hat ortamınızdaki sorunları ve "
+"planlanmamış kesinti sürelerini önleyin."
 
 #: src/subscriptions-view.jsx:179
 msgid "Product ID"
-msgstr ""
+msgstr "Ürün kimliği"
 
 #: src/subscriptions-view.jsx:74 src/subscriptions-view.jsx:175
 msgid "Product name"
-msgstr ""
+msgstr "Ürün adı"
 
 #: src/subscriptions-register.jsx:55
 msgid "Proxy Location"
-msgstr ""
+msgstr "Proksi Konumu"
 
 #: src/subscriptions-register.jsx:67
 msgid "Proxy Password"
-msgstr ""
+msgstr "Proksi Parolası"
 
 #: src/subscriptions-register.jsx:61
 msgid "Proxy Username"
-msgstr ""
+msgstr "Proksi Kullanıcı Adı"
 
 #: data/subscription-manager-cockpit.desktop:3
 msgid "Red Hat Subscription Manager"
-msgstr ""
+msgstr "Red Hat Abonelik Yöneticisi"
 
 #: src/subscriptions-view.jsx:408 src/index.js:64
 msgid "Register"
-msgstr ""
+msgstr "Kaydol"
 
 #: src/index.js:100
 msgid "Register System"
-msgstr ""
+msgstr "Kayıt Sistemi"
 
 #: src/subscriptions-client.js:340
 msgid "Registering using activation key ..."
-msgstr ""
+msgstr "Etkinleştirme anahtarı kullanılarak kaydettiriliyor..."
 
 #: src/subscriptions-client.js:362
 msgid "Registering using username and password ..."
-msgstr ""
+msgstr "Kullanıcı adı ve parola kullanılarak kaydettiriliyor..."
 
 #: src/insights.jsx:188
 msgid "Removals:"
-msgstr ""
+msgstr "Kaldırılanlar:"
 
 #: src/insights.jsx:222
 msgid "Removing $0"
-msgstr ""
+msgstr "$0 kaldırılıyor"
 
 #: src/subscriptions-view.jsx:507
 msgid "Retrieving subscription status..."
-msgstr ""
+msgstr "Abonelik durumu alınıyor..."
 
 #: src/subscriptions-view.jsx:357
 msgid "Role"
-msgstr ""
+msgstr "Rol"
 
 #: src/subscriptions-client.js:415
 msgid "Saving configuration ..."
-msgstr ""
+msgstr "Yapılandırma kaydediliyor..."
 
 #: src/subscriptions-view.jsx:345
 msgid "Service level"
-msgstr ""
+msgstr "Hizmet seviyesi"
 
 #: src/subscriptions-client.js:321
 msgid "Starting registration service ..."
-msgstr ""
+msgstr "Kayıt hizmeti başlatılıyor..."
 
 #: src/subscriptions-view.jsx:199
 msgid "Starts"
-msgstr ""
+msgstr "Başlangıç"
 
 #: src/subscriptions-view.jsx:195 src/subscriptions-view.jsx:339
 #: src/subscriptions-view.jsx:374
 msgid "Status"
-msgstr ""
+msgstr "Durum"
 
 #: src/subscriptions-client.js:391
 msgid "Stopping registration service ..."
-msgstr ""
+msgstr "Kayıt hizmeti durduruluyor..."
 
 #: src/subscriptions-view.jsx:111
 msgid "Subscribed"
-msgstr ""
+msgstr "Abone olundu"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:5
 msgid "Subscription Manager"
-msgstr ""
+msgstr "Abonelik Yöneticisi"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:6
 msgid "Subscription Manager in Cockpit"
-msgstr ""
+msgstr "Cockpit'teki Abonelik Yöneticisi"
 
 #: src/subscriptions-view.jsx:455
 msgid "Subscription status"
@@ -415,7 +419,7 @@ msgstr ""
 
 #: src/index.html:22 src/subscriptions-register.jsx:174 src/manifest.json:0
 msgid "Subscriptions"
-msgstr ""
+msgstr "Abonelikler"
 
 #: src/subscriptions-view.jsx:320 src/subscriptions-view.jsx:435
 msgid "Subscriptions information"
@@ -423,29 +427,30 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:392
 msgid "System purpose"
-msgstr ""
+msgstr "Sistem amacı"
 
 #: src/insights.jsx:158
 msgid "The $0 package and $1 other package will be installed."
 msgid_plural "The $0 package and $1 other packages will be installed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 paketi ve $1 diğer paket kurulacaktır."
+msgstr[1] "$0 paketi ve $1 diğer paket kurulacaktır."
 
 #: src/insights.jsx:84 src/insights.jsx:310
 msgid "The $0 package is not available from any repository."
-msgstr ""
+msgstr "$0 paketi hiçbir depoda yok."
 
 #: src/insights.jsx:156 src/subscriptions-register.jsx:94
 msgid "The $0 package will be installed."
-msgstr ""
+msgstr "$0 paketi kurulacaktır."
 
 #: src/subscriptions-view.jsx:515
 msgid "The current user isn't allowed to access system subscription status."
 msgstr ""
+"Şu anki kullanıcının sistem abonelik durumuna erişmesine izin verilmiyor."
 
 #: src/insights.jsx:397
 msgid "The last Insights data upload has failed."
-msgstr ""
+msgstr "Son Insights veri yüklemesi başarısız oldu."
 
 #: src/subscriptions-view.jsx:509
 msgid ""
@@ -453,69 +458,75 @@ msgid ""
 "and try reloading the page. Additionally, make sure that you have checked "
 "the 'Reuse my password for privileged tasks' checkbox on the login page."
 msgstr ""
+"Rhsm hizmeti kullanılamıyor. Abonelik yöneticisinin kurulu olduğundan emin "
+"olun ve sayfayı yeniden yüklemeyi deneyin. Ayrıca, oturum açma sayfasında "
+"'Parolamı yetkili görevler için yeniden kullan' onay kutusunu "
+"işaretlediğinizden emin olun."
 
 #: src/insights.jsx:87
 msgid ""
 "The system could not be connected to Insights because installing the $0 "
 "package requires the unexpected removal of other packages."
 msgstr ""
+"$0 paketinin kurulması diğer paketlerin beklenmedik şekilde kaldırılmasını "
+"gerektirdiğinden sistem Insights'a bağlanamadı."
 
 #: src/insights.jsx:244
 msgid "This system is not connected to $0."
-msgstr ""
+msgstr "Bu sistem $0 sistemine bağlanmadı."
 
 #: src/subscriptions-register.jsx:147
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/subscriptions-view.jsx:517
 msgid "Unable to connect"
-msgstr ""
+msgstr "Bağlanamıyor"
 
 #: src/subscriptions-view.jsx:512
 msgid "Unable to the reach the rhsm service."
-msgstr ""
+msgstr "Rhsm hizmetine ulaşılamıyor."
 
 #: src/subscriptions-view.jsx:133 src/subscriptions-view.jsx:139
 #: src/subscriptions-client.js:545
 msgid "Unknown"
-msgstr ""
+msgstr "Bilinmiyor"
 
 #: src/subscriptions-view.jsx:128
 msgid "Unknown status"
-msgstr ""
+msgstr "Bilinmeyen durum"
 
 #: src/subscriptions-view.jsx:415
 msgid "Unregister"
-msgstr ""
+msgstr "Kaydı kaldır"
 
 #: src/subscriptions-view.jsx:415 src/subscriptions-client.js:453
 msgid "Unregistering"
-msgstr ""
+msgstr "Kayıt kaldırılıyor"
 
 #: src/subscriptions-view.jsx:506
 msgid "Updating"
-msgstr ""
+msgstr "Güncelleniyor"
 
 #: src/subscriptions-client.js:435
 msgid "Updating status ..."
-msgstr ""
+msgstr "Durum güncelleniyor..."
 
 #: src/subscriptions-view.jsx:351
 msgid "Usage"
-msgstr ""
+msgstr "Kullanım"
 
 #: src/subscriptions-register.jsx:155
 msgid "Use proxy server"
-msgstr ""
+msgstr "Proksi sunucusu kullan"
 
 #: src/subscriptions-register.jsx:107
 msgid "Username"
-msgstr ""
+msgstr "Kullanıcı adı"
 
 #: src/subscriptions-view.jsx:183
 msgid "Version"
-msgstr ""
+msgstr "Sürüm"
 
 #: src/insights.jsx:556
 msgid "View your Insights results"
@@ -523,20 +534,20 @@ msgstr ""
 
 #: src/insights.jsx:205 src/insights.jsx:216 src/insights.jsx:300
 msgid "Waiting for other software management operations to finish"
-msgstr ""
+msgstr "Diğer yazılım yönetimi işlemlerinin tamamlanması bekleniyor"
 
 #: src/manifest.json:0
 msgid "candlepin"
-msgstr ""
+msgstr "candlepin"
 
 #: src/subscriptions-client.js:492
 msgid "not-found"
-msgstr ""
+msgstr "bulunamadı"
 
 #: src/manifest.json:0
 msgid "subscriptions"
-msgstr ""
+msgstr "abonelikler"
 
 #: src/insights.jsx:344
 msgid "unknown"
-msgstr ""
+msgstr "bilinmiyor"
