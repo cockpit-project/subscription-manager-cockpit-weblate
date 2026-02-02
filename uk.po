@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-01-23 09:54+0000\n"
+"PO-Revision-Date: 2026-02-02 07:58+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/uk/>\n"
@@ -182,7 +182,7 @@ msgstr ""
 
 #: src/insights.jsx:194 src/insights.jsx:422 src/insights.jsx:427
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 #: src/insights.jsx:430 src/insights.jsx:434
 msgid "Disconnect from Insights"
