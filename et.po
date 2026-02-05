@@ -22,8 +22,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 09:26+0000\n"
 "PO-Revision-Date: 2026-02-06 14:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Priit Jõerüüt "
+"<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/et/>\n"
 "Language: et\n"
@@ -329,7 +329,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:159 src/subscriptions-view.jsx:344
 msgid "Status"
-msgstr "Olek"
+msgstr "Seisund"
 
 #: src/subscriptions-client.js:392
 msgid "Stopping registration service ..."
