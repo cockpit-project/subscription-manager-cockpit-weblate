@@ -32,36 +32,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.15.2\n"
 
-#: src/insights.jsx:528
-msgid "$0 critical hit"
-msgid_plural "$0 hits, including critical"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:549
-msgid "$0 hit"
-msgid_plural "$0 hits"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:533
-msgid "$0 important hit"
-msgid_plural "$0 hits, including important"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:543
-msgid "$0 low severity hit"
-msgid_plural "$0 low severity hits"
-msgstr[0] ""
-msgstr[1] ""
-
-#: src/insights.jsx:538
-msgid "$0 moderate hit"
-msgid_plural "$0 hits, including moderate"
-msgstr[0] ""
-msgstr[1] ""
-
 #: src/insights.jsx:166
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
