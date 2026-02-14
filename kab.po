@@ -21,15 +21,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-02-15 07:58+0000\n"
+"Last-Translator: Massii Aqvayli <massiin@proton.me>\n"
+"Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
+"subscription-manager-cockpit/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Cockpit manifest2po\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: src/insights.jsx:528
 msgid "$0 critical hit"
@@ -114,7 +115,7 @@ msgstr ""
 
 #: src/insights.jsx:450
 msgid "Cancel"
-msgstr ""
+msgstr "Semmet"
 
 #: src/insights.jsx:207 src/insights.jsx:302
 msgid "Checking installed software"
@@ -122,7 +123,7 @@ msgstr ""
 
 #: src/insights.jsx:442 src/insights.jsx:461
 msgid "Close"
-msgstr ""
+msgstr "Mdel"
 
 #: src/insights.jsx:254
 msgid "Connect"
