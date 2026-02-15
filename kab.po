@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-02-15 07:58+0000\n"
+"PO-Revision-Date: 2026-02-16 22:58+0000\n"
 "Last-Translator: Massii Aqvayli <massiin@proton.me>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
 "subscription-manager-cockpit/kab/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16\n"
 
 #: src/insights.jsx:528
 msgid "$0 critical hit"
@@ -382,7 +382,7 @@ msgstr ""
 #: src/subscriptions-view.jsx:195 src/subscriptions-view.jsx:339
 #: src/subscriptions-view.jsx:374
 msgid "Status"
-msgstr ""
+msgstr "Addad"
 
 #: src/subscriptions-client.js:391
 msgid "Stopping registration service ..."
