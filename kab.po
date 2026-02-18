@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-02-16 22:58+0000\n"
+"PO-Revision-Date: 2026-02-19 22:58+0000\n"
 "Last-Translator: Massii Aqvayli <massiin@proton.me>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
 "subscription-manager-cockpit/kab/>\n"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: src/subscriptions-register.jsx:147
 msgid "URL"
-msgstr ""
+msgstr "Tansa URL"
 
 #: src/subscriptions-view.jsx:517
 msgid "Unable to connect"
@@ -486,7 +486,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:506
 msgid "Updating"
-msgstr ""
+msgstr "Amucceḍ"
 
 #: src/subscriptions-client.js:435
 msgid "Updating status ..."
@@ -506,7 +506,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:183
 msgid "Version"
-msgstr ""
+msgstr "Lqem"
 
 #: src/insights.jsx:556
 msgid "View your Insights results"
