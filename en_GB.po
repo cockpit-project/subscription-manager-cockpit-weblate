@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-01-26 20:58+0000\n"
+"PO-Revision-Date: 2026-02-27 17:58+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/subscription-manager-cockpit/en_GB/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.1\n"
 
 #: src/insights.jsx:528
 msgid "$0 critical hit"
@@ -70,11 +70,11 @@ msgstr[1] "$0 packages need to be removed."
 
 #: src/subscriptions-client.js:229
 msgid "'Organization' is required when using activation keys"
-msgstr ""
+msgstr "'Organisation' is required when using activation keys"
 
 #: src/subscriptions-view.jsx:514
 msgid "Access denied"
-msgstr ""
+msgstr "Access denied"
 
 #: src/subscriptions-register.jsx:163
 msgid "Account"
