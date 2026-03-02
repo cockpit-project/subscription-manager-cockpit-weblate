@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-02-27 17:58+0000\n"
+"PO-Revision-Date: 2026-03-03 14:58+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/subscription-manager-cockpit/en_GB/>\n"
@@ -78,27 +78,27 @@ msgstr "Access denied"
 
 #: src/subscriptions-register.jsx:163
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: src/subscriptions-register.jsx:127
 msgid "Activation Key"
-msgstr ""
+msgstr "Activation Key"
 
 #: src/subscriptions-register.jsx:168
 msgid "Activation key"
-msgstr ""
+msgstr "Activation key"
 
 #: src/subscriptions-view.jsx:363
 msgid "Add-ons"
-msgstr ""
+msgstr "Add-ons"
 
 #: src/insights.jsx:180
 msgid "Additional packages:"
-msgstr ""
+msgstr "Additional packages:"
 
 #: src/subscriptions-view.jsx:187
 msgid "Arch"
-msgstr ""
+msgstr "Arch"
 
 #: src/subscriptions-register.jsx:176
 msgid "Attach automatically"
@@ -115,39 +115,39 @@ msgstr ""
 
 #: src/insights.jsx:450
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: src/insights.jsx:207 src/insights.jsx:302
 msgid "Checking installed software"
-msgstr ""
+msgstr "Checking installed software"
 
 #: src/insights.jsx:442 src/insights.jsx:461
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: src/insights.jsx:254
 msgid "Connect"
-msgstr ""
+msgstr "Connect"
 
 #: src/subscriptions-register.jsx:87
 msgid "Connect this system to $0."
-msgstr ""
+msgstr "Connect this system to $0."
 
 #: src/insights.jsx:241
 msgid "Connect to Red Hat Insights"
-msgstr ""
+msgstr "Connect to Red Hat Insights"
 
 #: src/insights.jsx:562
 msgid "Connected to Insights"
-msgstr ""
+msgstr "Connected to Insights"
 
 #: src/insights.jsx:402
 msgid "Connected to Red Hat Insights"
-msgstr ""
+msgstr "Connected to Red Hat Insights"
 
 #: src/insights.jsx:100
 msgid "Connecting to Insights"
-msgstr ""
+msgstr "Connecting to Insights"
 
 #: src/subscriptions-view.jsx:422
 msgid ""
@@ -163,90 +163,97 @@ msgstr ""
 
 #: src/subscriptions-client.js:529
 msgid "Corrupted JSON with status"
-msgstr ""
+msgstr "Corrupted JSON with status"
 
 #: src/subscriptions-view.jsx:519
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
 msgstr ""
+"Couldn't get system subscription status. Please ensure subscription-manager "
+"is installed. Reported status: $0 ($1)"
 
 #: src/subscriptions-register.jsx:143
 msgid "Custom URL"
-msgstr ""
+msgstr "Custom URL"
 
 #: src/subscriptions-register.jsx:142
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: src/insights.jsx:194 src/insights.jsx:422 src/insights.jsx:427
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: src/insights.jsx:430 src/insights.jsx:434
 msgid "Disconnect from Insights"
-msgstr ""
+msgstr "Disconnect from Insights"
 
 #: src/insights.jsx:220
 msgid "Downloading $0"
-msgstr ""
+msgstr "Downloading $0"
 
 #: src/subscriptions-view.jsx:203
 msgid "Ends"
-msgstr ""
+msgstr "Ends"
 
 #: src/insights.jsx:432
 msgid ""
 "If you disconnect this system from Insights, it will no longer report its "
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
+"If you disconnect this system from Insights, it will no longer report its "
+"Insights status in Red Hat Cloud or Satellite."
 
 #: src/insights.jsx:579 src/subscriptions-register.jsx:85
 msgid "Insights"
-msgstr ""
+msgstr "Insights"
 
 #: src/subscriptions-view.jsx:226 src/subscriptions-view.jsx:230
 msgid "Installed products"
-msgstr ""
+msgstr "Installed products"
 
 #: src/insights.jsx:224
 msgid "Installing $0"
-msgstr ""
+msgstr "Installing $0"
 
 #: src/insights.jsx:413
 msgid "Last Insights data upload"
-msgstr ""
+msgstr "Last Insights data upload"
 
 #: src/subscriptions-client.js:284
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
+"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 
 #: src/subscriptions-client.js:251
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
+"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:8
 msgid ""
 "Manage subscriptions to a Candlepin backend, such as for Red Hat products."
 msgstr ""
+"Manage subscriptions to a Candlepin backend, such as for Red Hat products."
 
 #: src/manifest.json:0
 msgid "Managing subscriptions"
-msgstr ""
+msgstr "Managing subscriptions"
 
 #: src/subscriptions-register.jsx:159
 msgid "Method"
-msgstr ""
+msgstr "Method"
 
 #: src/insights.jsx:408
 msgid "Next Insights data upload"
-msgstr ""
+msgstr "Next Insights data upload"
 
 #: src/subscriptions-view.jsx:233
 msgid "No installed products detected"
-msgstr ""
+msgstr "No installed products detected"
 
 #: src/insights.jsx:520
 msgid "No rule hits"
@@ -254,47 +261,47 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:381
 msgid "No system purpose attributes set"
-msgstr ""
+msgstr "No system purpose attributes set"
 
 #: src/insights.jsx:574
 msgid "Not connected"
-msgstr ""
+msgstr "Not connected"
 
 #: src/subscriptions-view.jsx:406
 msgid "Not registered"
-msgstr ""
+msgstr "Not registered"
 
 #: src/subscriptions-view.jsx:121
 msgid "Not subscribed"
-msgstr ""
+msgstr "Not subscribed"
 
 #: src/subscriptions-view.jsx:123
 msgid "Not subscribed ($0)"
-msgstr ""
+msgstr "Not subscribed ($0)"
 
 #: src/subscriptions-view.jsx:462 src/subscriptions-register.jsx:117
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 #: src/subscriptions-register.jsx:132
 msgid "Organization ID"
-msgstr ""
+msgstr "Organisation ID"
 
 #: src/subscriptions-view.jsx:449
 msgid "Overview"
-msgstr ""
+msgstr "Overview"
 
 #: src/subscriptions-view.jsx:115
 msgid "Partially subscribed"
-msgstr ""
+msgstr "Partially subscribed"
 
 #: src/subscriptions-view.jsx:117
 msgid "Partially subscribed ($0)"
-msgstr ""
+msgstr "Partially subscribed ($0)"
 
 #: src/subscriptions-register.jsx:112
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: src/subscriptions-view.jsx:313 src/subscriptions-view.jsx:428
 msgid "Popover with explanation of SCA mode"
@@ -306,30 +313,33 @@ msgid ""
 "availability, and stability with Red Hat Insights — with predictive "
 "analytics, avoid problems and unplanned downtime in your Red Hat environment."
 msgstr ""
+"Proactively identify and remediate threats to security, performance, "
+"availability, and stability with Red Hat Insights — with predictive "
+"analytics, avoid problems and unplanned downtime in your Red Hat environment."
 
 #: src/subscriptions-view.jsx:179
 msgid "Product ID"
-msgstr ""
+msgstr "Product ID"
 
 #: src/subscriptions-view.jsx:74 src/subscriptions-view.jsx:175
 msgid "Product name"
-msgstr ""
+msgstr "Product name"
 
 #: src/subscriptions-register.jsx:55
 msgid "Proxy Location"
-msgstr ""
+msgstr "Proxy Location"
 
 #: src/subscriptions-register.jsx:67
 msgid "Proxy Password"
-msgstr ""
+msgstr "Proxy Password"
 
 #: src/subscriptions-register.jsx:61
 msgid "Proxy Username"
-msgstr ""
+msgstr "Proxy Username"
 
 #: data/subscription-manager-cockpit.desktop:3
 msgid "Red Hat Subscription Manager"
-msgstr ""
+msgstr "Red Hat Subscription Manager"
 
 #: src/subscriptions-view.jsx:408 src/index.js:64
 msgid "Register"
