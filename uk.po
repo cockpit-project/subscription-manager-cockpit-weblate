@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-03-03 14:58+0000\n"
+"PO-Revision-Date: 2026-03-06 07:03+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/uk/>\n"
@@ -66,8 +66,9 @@ msgstr[1] ""
 #: src/insights.jsx:166
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 пакунок має бути вилучено."
+msgstr[1] "$0 пакунки має бути вилучено."
+msgstr[2] "$0 пакунків має бути вилучено."
 
 #: src/subscriptions-client.js:229
 msgid "'Organization' is required when using activation keys"
@@ -83,15 +84,15 @@ msgstr "Обліковий запис"
 
 #: src/subscriptions-register.jsx:127
 msgid "Activation Key"
-msgstr ""
+msgstr "Ключ активації"
 
 #: src/subscriptions-register.jsx:168
 msgid "Activation key"
-msgstr ""
+msgstr "Ключ активації"
 
 #: src/subscriptions-view.jsx:363
 msgid "Add-ons"
-msgstr ""
+msgstr "Додатки"
 
 #: src/insights.jsx:180
 msgid "Additional packages:"
