@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-30 11:07+0200\n"
-"PO-Revision-Date: 2026-03-03 14:58+0000\n"
+"PO-Revision-Date: 2026-03-14 13:58+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/subscription-manager-cockpit/en_GB/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: src/insights.jsx:528
 msgid "$0 critical hit"
@@ -343,60 +343,60 @@ msgstr "Red Hat Subscription Manager"
 
 #: src/subscriptions-view.jsx:408 src/index.js:64
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 #: src/index.js:100
 msgid "Register System"
-msgstr ""
+msgstr "Register System"
 
 #: src/subscriptions-client.js:340
 msgid "Registering using activation key ..."
-msgstr ""
+msgstr "Registering using activation key ..."
 
 #: src/subscriptions-client.js:362
 msgid "Registering using username and password ..."
-msgstr ""
+msgstr "Registering using username and password ..."
 
 #: src/insights.jsx:188
 msgid "Removals:"
-msgstr ""
+msgstr "Removals:"
 
 #: src/insights.jsx:222
 msgid "Removing $0"
-msgstr ""
+msgstr "Removing $0"
 
 #: src/subscriptions-view.jsx:507
 msgid "Retrieving subscription status..."
-msgstr ""
+msgstr "Retrieving subscription status..."
 
 #: src/subscriptions-view.jsx:357
 msgid "Role"
-msgstr ""
+msgstr "Role"
 
 #: src/subscriptions-client.js:415
 msgid "Saving configuration ..."
-msgstr ""
+msgstr "Saving configuration ..."
 
 #: src/subscriptions-view.jsx:345
 msgid "Service level"
-msgstr ""
+msgstr "Service level"
 
 #: src/subscriptions-client.js:321
 msgid "Starting registration service ..."
-msgstr ""
+msgstr "Starting registration service ..."
 
 #: src/subscriptions-view.jsx:199
 msgid "Starts"
-msgstr ""
+msgstr "Starts"
 
 #: src/subscriptions-view.jsx:195 src/subscriptions-view.jsx:339
 #: src/subscriptions-view.jsx:374
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: src/subscriptions-client.js:391
 msgid "Stopping registration service ..."
-msgstr ""
+msgstr "Stopping registration service ..."
 
 #: src/subscriptions-view.jsx:111
 msgid "Subscribed"
