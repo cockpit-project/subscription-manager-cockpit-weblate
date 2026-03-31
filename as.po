@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-27 04:58+0000\n"
+"POT-Creation-Date: 2026-03-31 05:01+0000\n"
 "PO-Revision-Date: 2015-09-25 02:52-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Assamese\n"
@@ -147,7 +147,7 @@ msgid ""
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
 
-#: src/insights.jsx:506 src/subscriptions-register.jsx:71
+#: src/subscriptions-register.jsx:71 src/insights.jsx:506
 msgid "Insights"
 msgstr ""
 
@@ -443,7 +443,7 @@ msgstr[1] ""
 msgid "The $0 package is not available from any repository."
 msgstr ""
 
-#: src/insights.jsx:152 src/subscriptions-register.jsx:81
+#: src/subscriptions-register.jsx:81 src/insights.jsx:152
 msgid "The $0 package will be installed."
 msgstr ""
 
@@ -494,8 +494,8 @@ msgstr "%s:%s%s ত চাৰ্ভাৰ প্ৰাপ্ত কৰিব ন
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
 # document keys, author ngoswami
-#: src/subscriptions-client.js:34 src/subscriptions-client.js:515
 #: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
+#: src/subscriptions-client.js:34 src/subscriptions-client.js:515
 msgid "Unknown"
 msgstr "অজ্ঞাত"
 
@@ -515,7 +515,7 @@ msgstr "অজ্ঞাত"
 msgid "Unregister"
 msgstr "আনৰেজিস্টাৰ কৰক (_U)"
 
-#: src/subscriptions-client.js:436 src/subscriptions-view.jsx:307
+#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:436
 msgid "Unregistering"
 msgstr ""
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-27 04:58+0000\n"
+"POT-Creation-Date: 2026-03-31 05:01+0000\n"
 "PO-Revision-Date: 2022-06-15 12:24+0000\n"
 "Last-Translator: Transtats <suanand@redhat.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
@@ -147,7 +147,7 @@ msgstr ""
 "如果您断开此系统与 Insights 的连接，它将不会在红帽云或 Satellite 中报告其 "
 "Insights 状态。"
 
-#: src/insights.jsx:506 src/subscriptions-register.jsx:71
+#: src/subscriptions-register.jsx:71 src/insights.jsx:506
 msgid "Insights"
 msgstr "Insights"
 
@@ -380,7 +380,7 @@ msgstr[0] "$0 软件包和 $1 个其他软件包将被安装。"
 msgid "The $0 package is not available from any repository."
 msgstr "所有仓库都不提供 $0。"
 
-#: src/insights.jsx:152 src/subscriptions-register.jsx:81
+#: src/subscriptions-register.jsx:81 src/insights.jsx:152
 msgid "The $0 package will be installed."
 msgstr "$0 软件包将被安装。"
 
@@ -427,8 +427,8 @@ msgid "Unable to the reach the rhsm service."
 msgstr "无法访问 rhsm 服务。"
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-client.js:34 src/subscriptions-client.js:515
 #: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
+#: src/subscriptions-client.js:34 src/subscriptions-client.js:515
 msgid "Unknown"
 msgstr "未知的"
 
@@ -441,7 +441,7 @@ msgstr "未知状态"
 msgid "Unregister"
 msgstr "取消注册"
 
-#: src/subscriptions-client.js:436 src/subscriptions-view.jsx:307
+#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:436
 msgid "Unregistering"
 msgstr "正在取消注册"
 
