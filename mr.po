@@ -6,29 +6,30 @@ msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-10 05:15+0000\n"
-"PO-Revision-Date: 2015-09-25 02:52-0400\n"
-"Last-Translator: John Sefler <jsefler@redhat.com>\n"
-"Language-Team: Marathi <sshedmak@redhat.com>\n"
+"PO-Revision-Date: 2026-04-10 19:40+0000\n"
+"Last-Translator: Udayraj Bal <udayrajb@gmail.com>\n"
+"Language-Team: Marathi <https://translate.fedoraproject.org/projects/cockpit/"
+"subscription-manager-cockpit/mr/>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "$0 पॅकेज काढावे लागणार आहे."
+msgstr[1] "$0 पॅकेजेस काढावी लागणार आहेत."
 
 #: src/subscriptions-client.js:215
 msgid "'Organization' is required when using activation keys"
-msgstr ""
+msgstr "ॲक्टिव्हेशन की साठी 'Organization' (संस्थे) ची आवश्यकता आहे"
 
 #: src/subscriptions-view.jsx:518
 msgid "Access denied"
-msgstr ""
+msgstr "प्रवेश नाकारला"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
@@ -38,11 +39,11 @@ msgstr "खाते"
 
 #: src/subscriptions-register.jsx:119
 msgid "Activation Key"
-msgstr ""
+msgstr "ॲक्टीव्हेशन की"
 
 #: src/subscriptions-register.jsx:167
 msgid "Activation key"
-msgstr ""
+msgstr "ॲक्टीव्हेशन की"
 
 #: src/subscriptions-view.jsx:265
 msgid "Add-ons"
