@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-08 05:02+0000\n"
-"PO-Revision-Date: 2026-04-08 09:58+0000\n"
+"PO-Revision-Date: 2026-04-10 13:10+0000\n"
 "Last-Translator: ButterflyOfFire "
 "<butterflyoffire@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/cockpit/"
@@ -439,7 +439,7 @@ msgstr ""
 
 #: src/subscriptions-register.jsx:94
 msgid "Username"
-msgstr ""
+msgstr "Isem n useqdac"
 
 #: src/subscriptions-view.jsx:124
 msgid "Version"
