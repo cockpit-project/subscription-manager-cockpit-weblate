@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-16 05:19+0000\n"
+"POT-Creation-Date: 2026-04-19 05:17+0000\n"
 "PO-Revision-Date: 2026-04-16 08:59+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/cockpit/"
@@ -424,7 +424,7 @@ msgid "Unable to the reach the rhsm service."
 msgstr "rhsm-palveluun ei saada yhteyttä."
 
 #: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34 src/subscriptions-client.js:515
+#: src/subscriptions-client.js:34
 msgid "Unknown"
 msgstr "Tuntematon"
 
