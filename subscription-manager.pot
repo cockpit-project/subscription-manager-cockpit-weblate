@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 05:49+0000\n"
+"POT-Creation-Date: 2026-05-08 05:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.metainfo.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 05:49+0000\n"
+"POT-Creation-Date: 2026-05-08 05:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.desktop.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 05:49+0000\n"
+"POT-Creation-Date: 2026-05-08 05:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgid_plural "$0 packages need to be removed."
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/subscriptions-client.js:215
+#: src/subscriptions-client.js:213
 msgid "'Organization' is required when using activation keys"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Connecting to Insights"
 msgstr ""
 
-#: src/subscriptions-client.js:493
+#: src/subscriptions-client.js:490
 msgid "Corrupted JSON with status"
 msgstr ""
 
@@ -200,12 +200,12 @@ msgstr ""
 msgid "Last Insights data upload"
 msgstr ""
 
-#: src/subscriptions-client.js:274
+#: src/subscriptions-client.js:272
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 
-#: src/subscriptions-client.js:239
+#: src/subscriptions-client.js:237
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
@@ -318,11 +318,11 @@ msgstr ""
 msgid "Registered"
 msgstr ""
 
-#: src/subscriptions-client.js:329
+#: src/subscriptions-client.js:327
 msgid "Registering using activation key ..."
 msgstr ""
 
-#: src/subscriptions-client.js:350
+#: src/subscriptions-client.js:348
 msgid "Registering using username and password ..."
 msgstr ""
 
@@ -342,7 +342,7 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: src/subscriptions-client.js:403
+#: src/subscriptions-client.js:401
 msgid "Saving configuration ..."
 msgstr ""
 
@@ -350,7 +350,7 @@ msgstr ""
 msgid "Service level"
 msgstr ""
 
-#: src/subscriptions-client.js:310
+#: src/subscriptions-client.js:308
 msgid "Starting registration service ..."
 msgstr ""
 
@@ -362,7 +362,7 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
-#: src/subscriptions-client.js:379
+#: src/subscriptions-client.js:377
 msgid "Stopping registration service ..."
 msgstr ""
 
@@ -450,7 +450,7 @@ msgstr ""
 msgid "Unregister"
 msgstr ""
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:436
+#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
 msgid "Unregistering"
 msgstr ""
 
@@ -458,7 +458,7 @@ msgstr ""
 msgid "Updating"
 msgstr ""
 
-#: src/subscriptions-client.js:423
+#: src/subscriptions-client.js:421
 msgid "Updating status ..."
 msgstr ""
 
@@ -494,7 +494,7 @@ msgstr ""
 msgid "key_one,key_two"
 msgstr ""
 
-#: src/subscriptions-client.js:457
+#: src/subscriptions-client.js:454
 msgid "not-found"
 msgstr ""
 
