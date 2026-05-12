@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.js.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 06:24+0000\n"
+"POT-Creation-Date: 2026-05-12 05:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.metainfo.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 06:24+0000\n"
+"POT-Creation-Date: 2026-05-12 05:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 "#-#-#-#-#  subscription-manager.desktop.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 06:24+0000\n"
+"POT-Creation-Date: 2026-05-12 05:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,7 +76,7 @@ msgstr[1] ""
 msgid "'Organization' is required when using activation keys"
 msgstr ""
 
-#: src/subscriptions-view.jsx:518
+#: src/subscriptions-view.jsx:520
 msgid "Access denied"
 msgstr ""
 
@@ -144,7 +144,7 @@ msgstr ""
 msgid "Corrupted JSON with status"
 msgstr ""
 
-#: src/subscriptions-view.jsx:523
+#: src/subscriptions-view.jsx:525
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
@@ -310,7 +310,7 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#: src/subscriptions-view.jsx:461
+#: src/subscriptions-view.jsx:463
 msgid "Register System"
 msgstr ""
 
@@ -334,7 +334,7 @@ msgstr ""
 msgid "Removing $0"
 msgstr ""
 
-#: src/subscriptions-view.jsx:503
+#: src/subscriptions-view.jsx:505
 msgid "Retrieving subscription status..."
 msgstr ""
 
@@ -400,7 +400,7 @@ msgstr ""
 msgid "The $0 package will be installed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:519
+#: src/subscriptions-view.jsx:521
 msgid "The current user isn't allowed to access system subscription status."
 msgstr ""
 
@@ -408,7 +408,7 @@ msgstr ""
 msgid "The last Insights data upload has failed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:515
+#: src/subscriptions-view.jsx:517
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
 "and try reloading the page. Additionally, make sure that you have checked "
@@ -429,11 +429,11 @@ msgstr ""
 msgid "URL"
 msgstr ""
 
-#: src/subscriptions-view.jsx:521
+#: src/subscriptions-view.jsx:523
 msgid "Unable to connect"
 msgstr ""
 
-#: src/subscriptions-view.jsx:516
+#: src/subscriptions-view.jsx:518
 msgid "Unable to the reach the rhsm service."
 msgstr ""
 
@@ -454,7 +454,7 @@ msgstr ""
 msgid "Unregistering"
 msgstr ""
 
-#: src/subscriptions-view.jsx:502
+#: src/subscriptions-view.jsx:504
 msgid "Updating"
 msgstr ""
 
