@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-06 05:45+0000\n"
+"POT-Creation-Date: 2026-05-15 06:20+0000\n"
 "PO-Revision-Date: 2026-04-25 01:58+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/cockpit/"
@@ -30,11 +30,11 @@ msgid "$0 package needs to be removed."
 msgid_plural "$0 packages need to be removed."
 msgstr[0] "$0 꾸러미들을 제거해야 합니다."
 
-#: src/subscriptions-client.js:215
+#: src/subscriptions-client.js:213
 msgid "'Organization' is required when using activation keys"
 msgstr "'조직'은 활성화 키를 사용 할 때 필요합니다"
 
-#: src/subscriptions-view.jsx:518
+#: src/subscriptions-view.jsx:520
 msgid "Access denied"
 msgstr "접근 거부됨"
 
@@ -102,11 +102,11 @@ msgstr "Red Hat Insights에 연결됨"
 msgid "Connecting to Insights"
 msgstr "Insights에 연결 중"
 
-#: src/subscriptions-client.js:493
+#: src/subscriptions-client.js:490
 msgid "Corrupted JSON with status"
 msgstr "손상된 상태 포함 JSON"
 
-#: src/subscriptions-view.jsx:523
+#: src/subscriptions-view.jsx:525
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
@@ -166,13 +166,13 @@ msgstr "$0 설치 중"
 msgid "Last Insights data upload"
 msgstr "마지막 Insights 자료 적재"
 
-#: src/subscriptions-client.js:274
+#: src/subscriptions-client.js:272
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 "잘못된 프락시 URL; IPV6 주소 구문과 호스트이름은 상호 배타적이어야 합니다"
 
-#: src/subscriptions-client.js:239
+#: src/subscriptions-client.js:237
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
@@ -293,7 +293,7 @@ msgid "Register"
 msgstr "등록"
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-view.jsx:461
+#: src/subscriptions-view.jsx:463
 msgid "Register System"
 msgstr "시스템 등록"
 
@@ -302,11 +302,11 @@ msgstr "시스템 등록"
 msgid "Registered"
 msgstr "등록됨"
 
-#: src/subscriptions-client.js:329
+#: src/subscriptions-client.js:327
 msgid "Registering using activation key ..."
 msgstr "활성키를 사용하여 등록 중..."
 
-#: src/subscriptions-client.js:350
+#: src/subscriptions-client.js:348
 msgid "Registering using username and password ..."
 msgstr "사용자 이름과 비밀번호를 사용하여 등록 중..."
 
@@ -318,7 +318,7 @@ msgstr "삭제:"
 msgid "Removing $0"
 msgstr "$0 삭제 중"
 
-#: src/subscriptions-view.jsx:503
+#: src/subscriptions-view.jsx:505
 msgid "Retrieving subscription status..."
 msgstr "서브스크립션 상태 검색 중 ..."
 
@@ -326,7 +326,7 @@ msgstr "서브스크립션 상태 검색 중 ..."
 msgid "Role"
 msgstr "역할"
 
-#: src/subscriptions-client.js:403
+#: src/subscriptions-client.js:401
 msgid "Saving configuration ..."
 msgstr "설정 저장 중..."
 
@@ -335,7 +335,7 @@ msgstr "설정 저장 중..."
 msgid "Service level"
 msgstr "서버스 수준"
 
-#: src/subscriptions-client.js:310
+#: src/subscriptions-client.js:308
 msgid "Starting registration service ..."
 msgstr "등록 서비스 시작 중..."
 
@@ -348,7 +348,7 @@ msgstr "시작"
 msgid "Status"
 msgstr "상태"
 
-#: src/subscriptions-client.js:379
+#: src/subscriptions-client.js:377
 msgid "Stopping registration service ..."
 msgstr "등록 서비스 중지 중..."
 
@@ -388,7 +388,7 @@ msgstr "$0 꾸러미는 저장소에서 사용 할 수 없습니다."
 msgid "The $0 package will be installed."
 msgstr "$0 꾸러미가 설치됩니다."
 
-#: src/subscriptions-view.jsx:519
+#: src/subscriptions-view.jsx:521
 msgid "The current user isn't allowed to access system subscription status."
 msgstr "현재 사용자는 시스템 서브스크립션 상태에 접근 할 수 없습니다."
 
@@ -396,15 +396,17 @@ msgstr "현재 사용자는 시스템 서브스크립션 상태에 접근 할 �
 msgid "The last Insights data upload has failed."
 msgstr "마지막 Insights 데이터 업로드에 실패했습니다."
 
-#: src/subscriptions-view.jsx:515
+#: src/subscriptions-view.jsx:517
+#, fuzzy
+#| msgid ""
+#| "The rhsm service is unavailable. Make sure subscription-manager is "
+#| "installed "
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
-"and try reloading the page. Additionally, make sure that you have checked "
-"the 'Reuse my password for privileged tasks' checkbox on the login page."
+"and try reloading the page."
 msgstr ""
-"rhsm 서비스는 사용 할 수 없습니다. subscription-manager가 설치되어 있는지 확"
-"인한 후 해당 부분을 다시 적재하세요. 또한, 로그인 부분에서 ‘권한 작업에 내 비"
-"밀번호 재사용' 확인란을 선택했는지 확인하세요."
+"rhsm 서비스를 사용 할 수 없습니다. subscription-manager가 설치되어 있는지 확"
+"인하세요 "
 
 #: src/insights.jsx:95
 msgid ""
@@ -423,12 +425,12 @@ msgstr "이 시스템은 $0 에 연결되어 있지 않습니다."
 msgid "URL"
 msgstr "URL"
 
-#: src/subscriptions-view.jsx:521
+#: src/subscriptions-view.jsx:523
 msgid "Unable to connect"
 msgstr "연결할 수 없습니다"
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-view.jsx:516
+#: src/subscriptions-view.jsx:518
 msgid "Unable to the reach the rhsm service."
 msgstr "rhsm 서버에 연결 할 수 없습니다."
 
@@ -447,15 +449,15 @@ msgstr "알 수 없는 상태"
 msgid "Unregister"
 msgstr "등록 해제"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:436
+#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
 msgid "Unregistering"
 msgstr "등록 해제 중"
 
-#: src/subscriptions-view.jsx:502
+#: src/subscriptions-view.jsx:504
 msgid "Updating"
 msgstr "최신화 중"
 
-#: src/subscriptions-client.js:423
+#: src/subscriptions-client.js:421
 msgid "Updating status ..."
 msgstr "상태 최신화 중 ..."
 
@@ -493,7 +495,7 @@ msgstr "호스트이름:포트"
 msgid "key_one,key_two"
 msgstr "키_하나,키_둘"
 
-#: src/subscriptions-client.js:457
+#: src/subscriptions-client.js:454
 msgid "not-found"
 msgstr "찾을 수 없음"
 
@@ -504,6 +506,16 @@ msgstr "서브스크립션"
 #: src/insights.jsx:341
 msgid "unknown"
 msgstr "알 수 없음"
+
+#~ msgid ""
+#~ "The rhsm service is unavailable. Make sure subscription-manager is "
+#~ "installed and try reloading the page. Additionally, make sure that you "
+#~ "have checked the 'Reuse my password for privileged tasks' checkbox on the "
+#~ "login page."
+#~ msgstr ""
+#~ "rhsm 서비스는 사용 할 수 없습니다. subscription-manager가 설치되어 있는지 "
+#~ "확인한 후 해당 부분을 다시 적재하세요. 또한, 로그인 부분에서 ‘권한 작업에 "
+#~ "내 비밀번호 재사용' 확인란을 선택했는지 확인하세요."
 
 #~ msgid "$0 critical hit"
 #~ msgid_plural "$0 hits, including critical"
@@ -565,10 +577,3 @@ msgstr "알 수 없음"
 
 #~ msgid "View your Insights results"
 #~ msgstr "Insights 결과보기"
-
-#~ msgid ""
-#~ "The rhsm service is unavailable. Make sure subscription-manager is "
-#~ "installed "
-#~ msgstr ""
-#~ "rhsm 서비스를 사용 할 수 없습니다. subscription-manager가 설치되어 있는지 "
-#~ "확인하세요 "

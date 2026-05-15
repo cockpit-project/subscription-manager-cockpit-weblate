@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-06 05:45+0000\n"
+"POT-Creation-Date: 2026-05-15 06:20+0000\n"
 "PO-Revision-Date: 2015-09-25 02:52-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Punjabi\n"
@@ -24,11 +24,11 @@ msgid_plural "$0 packages need to be removed."
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/subscriptions-client.js:215
+#: src/subscriptions-client.js:213
 msgid "'Organization' is required when using activation keys"
 msgstr ""
 
-#: src/subscriptions-view.jsx:518
+#: src/subscriptions-view.jsx:520
 msgid "Access denied"
 msgstr ""
 
@@ -100,11 +100,11 @@ msgstr ""
 msgid "Connecting to Insights"
 msgstr ""
 
-#: src/subscriptions-client.js:493
+#: src/subscriptions-client.js:490
 msgid "Corrupted JSON with status"
 msgstr ""
 
-#: src/subscriptions-view.jsx:523
+#: src/subscriptions-view.jsx:525
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
@@ -168,12 +168,12 @@ msgstr ""
 msgid "Last Insights data upload"
 msgstr ""
 
-#: src/subscriptions-client.js:274
+#: src/subscriptions-client.js:272
 msgid ""
 "Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 
-#: src/subscriptions-client.js:239
+#: src/subscriptions-client.js:237
 msgid ""
 "Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
@@ -330,7 +330,7 @@ msgstr "ਦਰਜ ਕਰੋ"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:461
+#: src/subscriptions-view.jsx:463
 msgid "Register System"
 msgstr "ਸਿਸਟਮ ਦਰਜ ਕਰੋ"
 
@@ -342,11 +342,11 @@ msgstr "ਸਿਸਟਮ ਦਰਜ ਕਰੋ"
 msgid "Registered"
 msgstr "ਦਰਜ ਕਰੋ"
 
-#: src/subscriptions-client.js:329
+#: src/subscriptions-client.js:327
 msgid "Registering using activation key ..."
 msgstr ""
 
-#: src/subscriptions-client.js:350
+#: src/subscriptions-client.js:348
 msgid "Registering using username and password ..."
 msgstr ""
 
@@ -360,7 +360,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:503
+#: src/subscriptions-view.jsx:505
 #, fuzzy
 #| msgid "Removing subscription. Please wait."
 msgid "Retrieving subscription status..."
@@ -370,7 +370,7 @@ msgstr "ਮੈਂਬਰੀ ਹਟਾ ਰਿਹਾ। ਕਿਰਪਾ ਕਰ ਕ�
 msgid "Role"
 msgstr ""
 
-#: src/subscriptions-client.js:403
+#: src/subscriptions-client.js:401
 msgid "Saving configuration ..."
 msgstr ""
 
@@ -382,7 +382,7 @@ msgstr ""
 msgid "Service level"
 msgstr "ਸੇਵਾ ਪੱਧਰ"
 
-#: src/subscriptions-client.js:310
+#: src/subscriptions-client.js:308
 msgid "Starting registration service ..."
 msgstr ""
 
@@ -400,7 +400,7 @@ msgstr "ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ:"
 msgid "Status"
 msgstr "ਹਾਲਾਤ"
 
-#: src/subscriptions-client.js:379
+#: src/subscriptions-client.js:377
 msgid "Stopping registration service ..."
 msgstr ""
 
@@ -450,7 +450,7 @@ msgstr ""
 msgid "The $0 package will be installed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:519
+#: src/subscriptions-view.jsx:521
 msgid "The current user isn't allowed to access system subscription status."
 msgstr ""
 
@@ -458,11 +458,10 @@ msgstr ""
 msgid "The last Insights data upload has failed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:515
+#: src/subscriptions-view.jsx:517
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
-"and try reloading the page. Additionally, make sure that you have checked "
-"the 'Reuse my password for privileged tasks' checkbox on the login page."
+"and try reloading the page."
 msgstr ""
 
 #: src/insights.jsx:95
@@ -483,7 +482,7 @@ msgstr "URL"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:521
+#: src/subscriptions-view.jsx:523
 #, fuzzy
 #| msgid "Unable to continue migration!"
 msgid "Unable to connect"
@@ -491,7 +490,7 @@ msgstr "ਪ੍ਰਵਾਸ ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਅਸਮਰੱ�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:516
+#: src/subscriptions-view.jsx:518
 #, fuzzy
 #| msgid "Unable to reach the server at %s:%s%s"
 msgid "Unable to the reach the rhsm service."
@@ -520,19 +519,19 @@ msgstr "ਅਣਪਛਾਤਾ"
 msgid "Unregister"
 msgstr "ਅਨ-ਰਜਿਸਟਰ (_U)"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:436
+#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
 msgid "Unregistering"
 msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:502
+#: src/subscriptions-view.jsx:504
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "ਅੱਪਡੇਟ"
 
-#: src/subscriptions-client.js:423
+#: src/subscriptions-client.js:421
 msgid "Updating status ..."
 msgstr ""
 
@@ -572,7 +571,7 @@ msgstr ""
 msgid "key_one,key_two"
 msgstr ""
 
-#: src/subscriptions-client.js:457
+#: src/subscriptions-client.js:454
 msgid "not-found"
 msgstr ""
 
