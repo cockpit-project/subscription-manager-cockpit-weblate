@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-15 06:20+0000\n"
-"PO-Revision-Date: 2026-03-07 07:58+0000\n"
+"PO-Revision-Date: 2026-05-16 16:59+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/uk/>\n"
@@ -31,7 +31,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
@@ -146,7 +146,7 @@ msgstr "Завершується"
 
 #: src/insights.jsx:76
 msgid "Error"
-msgstr ""
+msgstr "Помилка"
 
 #: src/insights.jsx:424
 msgid ""
@@ -295,10 +295,8 @@ msgid "Register System"
 msgstr "Зареєструвати систему"
 
 #: src/subscriptions-view.jsx:301
-#, fuzzy
-#| msgid "Register"
 msgid "Registered"
-msgstr "Зареєструвати"
+msgstr "Зареєстровано"
 
 #: src/subscriptions-client.js:327
 msgid "Registering using activation key ..."
@@ -392,20 +390,12 @@ msgid "The last Insights data upload has failed."
 msgstr "Востаннє вивантаження до Insights не вдалося."
 
 #: src/subscriptions-view.jsx:517
-#, fuzzy
-#| msgid ""
-#| "The rhsm service is unavailable. Make sure subscription-manager is "
-#| "installed and try reloading the page. Additionally, make sure that you "
-#| "have checked the 'Reuse my password for privileged tasks' checkbox on the "
-#| "login page."
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
 "and try reloading the page."
 msgstr ""
 "Служба rhsm недоступна. Переконайтеся, що встановлено subscription-manager, "
-"і спробуйте перезавантажити сторінку. Крім того, переконайтеся, що ви "
-"позначили пункт «Використовувати мій пароль для привілейованих завдань» на "
-"сторінці входу."
+"і спробуйте перезавантажити сторінку."
 
 #: src/insights.jsx:95
 msgid ""
@@ -482,11 +472,11 @@ msgstr "candlepin"
 
 #: src/subscriptions-register.jsx:47
 msgid "hostname:port"
-msgstr ""
+msgstr "назва_вузла:порт"
 
 #: src/subscriptions-register.jsx:121
 msgid "key_one,key_two"
-msgstr ""
+msgstr "ключ_один,ключ_два"
 
 #: src/subscriptions-client.js:454
 msgid "not-found"
