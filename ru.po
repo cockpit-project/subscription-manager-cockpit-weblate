@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2025-07-17 22:53+0000\n"
 "Last-Translator: Aleksey Fedorov <aleksejfedorov963@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
@@ -441,8 +441,8 @@ msgid "Unable to the reach the rhsm service."
 msgstr "Невозможно связаться со службой rhsm."
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "Неизвестно"
 
@@ -455,7 +455,7 @@ msgstr "Неизвестный статус"
 msgid "Unregister"
 msgstr "Удалить регистрацию"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr "Отмена регистрации"
 

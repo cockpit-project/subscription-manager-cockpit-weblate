@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2026-04-16 08:59+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/cockpit/"
@@ -428,8 +428,8 @@ msgstr "Yhteyttä ei voi muodostaa"
 msgid "Unable to the reach the rhsm service."
 msgstr "rhsm-palveluun ei saada yhteyttä."
 
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "Tuntematon"
 
@@ -441,7 +441,7 @@ msgstr "Tuntematon tila"
 msgid "Unregister"
 msgstr "Poista rekisteröinti"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr "Poistetaan rekisteröinti"
 

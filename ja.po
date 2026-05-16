@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2022-06-15 12:24+0000\n"
 "Last-Translator: Transtats <suanand@redhat.com>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
@@ -439,8 +439,8 @@ msgid "Unable to the reach the rhsm service."
 msgstr "rhsm サービスに到達できません。"
 
 # translation auto-copied from project subscription-manager, version 1.9.X, document keys, author khasida
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "不明"
 
@@ -453,7 +453,7 @@ msgstr "不明なステータス"
 msgid "Unregister"
 msgstr "登録解除"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr "登録の解除中"
 

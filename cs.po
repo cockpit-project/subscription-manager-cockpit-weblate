@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2026-03-24 13:58+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://translate.fedoraproject.org/projects/cockpit/"
@@ -428,8 +428,8 @@ msgstr "Nedaří se připojit"
 msgid "Unable to the reach the rhsm service."
 msgstr "Služba rhsm nebyla dosažitelná."
 
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "Neznámé"
 
@@ -441,7 +441,7 @@ msgstr "Neznámý stav"
 msgid "Unregister"
 msgstr "Zrušit registraci"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr "Ruší se registrace"
 

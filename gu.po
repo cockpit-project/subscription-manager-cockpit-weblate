@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2015-09-25 02:52-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Gujarati\n"
@@ -492,8 +492,8 @@ msgstr "%s:%s%s પર સર્વર સુધી પહોંચવાનુ 
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
 # document keys, author swkothar
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "અજ્ઞાત"
 
@@ -513,7 +513,7 @@ msgstr "અજ્ઞાત"
 msgid "Unregister"
 msgstr "રજીસ્ટર હટાવી દો (_U)"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr ""
 

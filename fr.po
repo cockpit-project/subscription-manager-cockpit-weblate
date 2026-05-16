@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2026-05-02 03:39+0000\n"
 "Last-Translator: Léane GRASSER <leane.grasser@proton.me>\n"
 "Language-Team: French <https://translate.fedoraproject.org/projects/cockpit/"
@@ -448,8 +448,8 @@ msgid "Unable to the reach the rhsm service."
 msgstr "Impossible d'atteindre le service rhsm."
 
 # translation auto-copied from project subscription-manager, version 1.9.X, document keys, author samfreemanz
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "Inconnu"
 
@@ -462,7 +462,7 @@ msgstr "Statut inconnu"
 msgid "Unregister"
 msgstr "Désenregistrer"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr "Désenregistrement"
 

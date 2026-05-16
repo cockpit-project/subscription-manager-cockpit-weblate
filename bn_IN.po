@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 06:20+0000\n"
+"POT-Creation-Date: 2026-05-16 05:42+0000\n"
 "PO-Revision-Date: 2015-09-25 03:30-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Bengali (India)\n"
@@ -492,8 +492,8 @@ msgstr "%s:%s%s-এ উপস্থিত সার্ভারের সাথ�
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
 # document keys, author Runa Bhattacharjee
-#: src/subscriptions-view.jsx:72 src/subscriptions-view.jsx:78
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
+#: src/subscriptions-view.jsx:78
 msgid "Unknown"
 msgstr "অজানা"
 
@@ -513,7 +513,7 @@ msgstr "অজানা"
 msgid "Unregister"
 msgstr "নিবন্ধন বাতিল করুন (_U)"
 
-#: src/subscriptions-view.jsx:307 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
 msgid "Unregistering"
 msgstr ""
 
