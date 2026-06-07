@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 06:57+0000\n"
+"POT-Creation-Date: 2026-06-07 06:50+0000\n"
 "PO-Revision-Date: 2021-08-18 07:00+0000\n"
 "Last-Translator: Hela Basa <r45xveza@pm.me>\n"
 "Language-Team: Sinhala <https://translate.fedoraproject.org/projects/"
@@ -136,7 +136,7 @@ msgid ""
 "Insights status in Red Hat Cloud or Satellite."
 msgstr ""
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
+#: src/insights.jsx:506 src/subscriptions-register.jsx:71
 msgid "Insights"
 msgstr ""
 
@@ -348,7 +348,7 @@ msgstr[1] ""
 msgid "The $0 package is not available from any repository."
 msgstr ""
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
+#: src/insights.jsx:152 src/subscriptions-register.jsx:81
 msgid "The $0 package will be installed."
 msgstr ""
 

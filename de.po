@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 06:57+0000\n"
+"POT-Creation-Date: 2026-06-07 06:50+0000\n"
 "PO-Revision-Date: 2026-06-07 08:01+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/cockpit/"
@@ -149,7 +149,7 @@ msgstr ""
 "Wenn Sie dieses System von Insights trennen, meldet es seinen Insights-"
 "Status nicht mehr an Red Hat Cloud oder Satellite."
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
+#: src/insights.jsx:506 src/subscriptions-register.jsx:71
 msgid "Insights"
 msgstr "Insights"
 
@@ -389,7 +389,7 @@ msgstr[1] "Das $0-Paket und $1 andere Pakete werden installiert."
 msgid "The $0 package is not available from any repository."
 msgstr "Das $0 Paket ist in keinem Repository verfügbar."
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
+#: src/insights.jsx:152 src/subscriptions-register.jsx:81
 msgid "The $0 package will be installed."
 msgstr "Das $0 Paket wird installiert."
 
