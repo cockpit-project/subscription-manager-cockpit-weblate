@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-07 06:50+0000\n"
+"POT-Creation-Date: 2026-06-20 06:48+0000\n"
 "PO-Revision-Date: 2015-09-25 03:38-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Malayalam\n"
@@ -25,7 +25,7 @@ msgstr[1] ""
 msgid "'Organization' is required when using activation keys"
 msgstr ""
 
-#: src/subscriptions-view.jsx:520
+#: src/subscriptions-view.jsx:523
 msgid "Access denied"
 msgstr ""
 
@@ -43,7 +43,7 @@ msgstr ""
 msgid "Activation key"
 msgstr ""
 
-#: src/subscriptions-view.jsx:265
+#: src/subscriptions-view.jsx:268
 msgid "Add-ons"
 msgstr ""
 
@@ -53,7 +53,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:128
+#: src/subscriptions-view.jsx:131
 msgid "Arch"
 msgstr "ആര്‍ക്കിടക്ചര്‍"
 
@@ -101,7 +101,7 @@ msgstr ""
 msgid "Corrupted JSON with status"
 msgstr ""
 
-#: src/subscriptions-view.jsx:525
+#: src/subscriptions-view.jsx:528
 msgid ""
 "Couldn't get system subscription status. Please ensure subscription-manager "
 "is installed. Reported status: $0 ($1)"
@@ -129,7 +129,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:144
+#: src/subscriptions-view.jsx:147
 #, fuzzy
 #| msgid "Ends:"
 msgid "Ends"
@@ -151,7 +151,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:167 src/subscriptions-view.jsx:170
+#: src/subscriptions-view.jsx:170 src/subscriptions-view.jsx:173
 #, fuzzy
 #| msgid "Installed Products"
 msgid "Installed products"
@@ -198,7 +198,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:173
+#: src/subscriptions-view.jsx:176
 #, fuzzy
 #| msgid "No installed products detected."
 msgid "No installed products detected"
@@ -206,7 +206,7 @@ msgstr "ഇന്‍സ്റ്റോള്‍ ചെയ്ത ഒരു പ്
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:275
+#: src/subscriptions-view.jsx:278
 #, fuzzy
 #| msgid "System Status Details"
 msgid "No system purpose attributes set"
@@ -218,7 +218,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:295
+#: src/subscriptions-view.jsx:298
 #, fuzzy
 #| msgid "System is not registered."
 msgid "Not registered"
@@ -226,7 +226,7 @@ msgstr "സിസ്റ്റം രജിസ്ടര്‍ ചെയ്തി�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:60
+#: src/subscriptions-view.jsx:63
 #, fuzzy
 #| msgid "Not Subscribed"
 msgid "Not subscribed"
@@ -234,7 +234,7 @@ msgstr "അംഗമായിട്ടില്ല"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:62
+#: src/subscriptions-view.jsx:65
 #, fuzzy
 #| msgid "Not Subscribed"
 msgid "Not subscribed ($0)"
@@ -242,7 +242,7 @@ msgstr "അംഗമായിട്ടില്ല"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:328
+#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
 msgid "Organization"
 msgstr "സ്ഥാപനം"
 
@@ -254,13 +254,13 @@ msgstr "സ്ഥാപനം"
 msgid "Organization ID"
 msgstr "സ്ഥാപനം: "
 
-#: src/subscriptions-view.jsx:316
+#: src/subscriptions-view.jsx:319
 msgid "Overview"
 msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:54
+#: src/subscriptions-view.jsx:57
 #, fuzzy
 #| msgid "Partially Subscribed"
 msgid "Partially subscribed"
@@ -268,7 +268,7 @@ msgstr "പകുതി അംഗം"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:56
+#: src/subscriptions-view.jsx:59
 #, fuzzy
 #| msgid "Partially Subscribed"
 msgid "Partially subscribed ($0)"
@@ -287,7 +287,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:120
+#: src/subscriptions-view.jsx:123
 #, fuzzy
 #| msgid "Product ID:"
 msgid "Product ID"
@@ -295,7 +295,7 @@ msgstr "പ്രൊഡക്ട് ഐഡി:"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:36 src/subscriptions-view.jsx:116
+#: src/subscriptions-view.jsx:39 src/subscriptions-view.jsx:119
 #, fuzzy
 #| msgid "Product Name:"
 msgid "Product name"
@@ -321,19 +321,19 @@ msgstr "Red Hat സബ്സ്ക്രിപ്ഷന്‍ മാനേജര
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:297 src/subscriptions-view.jsx:391
+#: src/subscriptions-view.jsx:300 src/subscriptions-view.jsx:394
 msgid "Register"
 msgstr "രജിസ്ടര്‍ ചെയ്യുക"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:463
+#: src/subscriptions-view.jsx:466
 msgid "Register System"
 msgstr "സിസ്റ്റം രജിസ്ടര്‍ ചെയ്യുക"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:301
+#: src/subscriptions-view.jsx:304
 #, fuzzy
 #| msgid "Register"
 msgid "Registered"
@@ -357,13 +357,13 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:505
+#: src/subscriptions-view.jsx:508
 #, fuzzy
 #| msgid "Removing subscription. Please wait."
 msgid "Retrieving subscription status..."
 msgstr "സബ്സ്ക്രിപ്ഷന്‍ വെട്ടിനീക്കുന്നു. ദയവായി കാത്തിരിയ്ക്കുക."
 
-#: src/subscriptions-view.jsx:260
+#: src/subscriptions-view.jsx:263
 msgid "Role"
 msgstr ""
 
@@ -373,7 +373,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:250
+#: src/subscriptions-view.jsx:253
 #, fuzzy
 #| msgid "Service Level"
 msgid "Service level"
@@ -385,7 +385,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:140
+#: src/subscriptions-view.jsx:143
 #, fuzzy
 #| msgid "Starts:"
 msgid "Starts"
@@ -393,7 +393,7 @@ msgstr "ആരംഭം:"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:136 src/subscriptions-view.jsx:321
+#: src/subscriptions-view.jsx:139 src/subscriptions-view.jsx:324
 msgid "Status"
 msgstr "അവസ്ഥ"
 
@@ -403,7 +403,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:50
+#: src/subscriptions-view.jsx:53
 msgid "Subscribed"
 msgstr "സബ്സ്ക്രൈബ് ചെയ്തിരിയ്ക്കുന്നു"
 
@@ -427,7 +427,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:284
+#: src/subscriptions-view.jsx:287
 #, fuzzy
 #| msgid "System Type:"
 msgid "System purpose"
@@ -447,7 +447,7 @@ msgstr ""
 msgid "The $0 package will be installed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:521
+#: src/subscriptions-view.jsx:524
 msgid "The current user isn't allowed to access system subscription status."
 msgstr ""
 
@@ -455,7 +455,7 @@ msgstr ""
 msgid "The last Insights data upload has failed."
 msgstr ""
 
-#: src/subscriptions-view.jsx:517
+#: src/subscriptions-view.jsx:520
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
 "and try reloading the page."
@@ -479,7 +479,7 @@ msgstr "യുആര്‍എല്‍"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:523
+#: src/subscriptions-view.jsx:526
 #, fuzzy
 #| msgid "Unable to continue migration!"
 msgid "Unable to connect"
@@ -487,7 +487,7 @@ msgstr "നീക്കം ചെയ്യുന്നതു് തുടരു�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:518
+#: src/subscriptions-view.jsx:521
 #, fuzzy
 #| msgid "Unable to reach the server at %s:%s%s"
 msgid "Unable to the reach the rhsm service."
@@ -495,14 +495,14 @@ msgstr "%s:%s%s-ലുള്ള സര്‍വര്‍ ലഭ്യമാക�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:72
-#: src/subscriptions-view.jsx:78
+#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
+#: src/subscriptions-client.js:34
 msgid "Unknown"
 msgstr "അപരിചിതം"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:67
+#: src/subscriptions-view.jsx:70
 #, fuzzy
 #| msgid "Unknown"
 msgid "Unknown status"
@@ -510,19 +510,19 @@ msgstr "അപരിചിതം"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:307
+#: src/subscriptions-view.jsx:310
 #, fuzzy
 #| msgid "_Unregister"
 msgid "Unregister"
 msgstr "_അണ്‍രജിസ്ടര്‍ ചെയ്യുക"
 
-#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:307
+#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
 msgid "Unregistering"
 msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:504
+#: src/subscriptions-view.jsx:507
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
@@ -534,7 +534,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:255
+#: src/subscriptions-view.jsx:258
 msgid "Usage"
 msgstr "ഉപയോഗിയ്ക്കേണ്ട വിധം"
 
@@ -548,7 +548,7 @@ msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:124
+#: src/subscriptions-view.jsx:127
 msgid "Version"
 msgstr "ലക്കം"
 
