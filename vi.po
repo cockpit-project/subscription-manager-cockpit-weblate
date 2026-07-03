@@ -21,15 +21,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-27 06:17+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-07-03 11:17+0000\n"
+"Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
+"Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
+"cockpit/subscription-manager-cockpit/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Cockpit manifest2po\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
@@ -226,7 +227,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:319
 msgid "Overview"
-msgstr ""
+msgstr "Tổng quan"
 
 #: src/subscriptions-view.jsx:57
 msgid "Partially subscribed"
@@ -238,7 +239,7 @@ msgstr ""
 
 #: src/subscriptions-register.jsx:100
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: src/insights.jsx:132
 msgid ""
@@ -428,7 +429,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:258
 msgid "Usage"
-msgstr ""
+msgstr "Sử dụng"
 
 #: src/subscriptions-register.jsx:152
 msgid "Use proxy server"
@@ -436,7 +437,7 @@ msgstr ""
 
 #: src/subscriptions-register.jsx:94
 msgid "Username"
-msgstr ""
+msgstr "Tên người dùng"
 
 #: src/subscriptions-view.jsx:127
 msgid "Version"
