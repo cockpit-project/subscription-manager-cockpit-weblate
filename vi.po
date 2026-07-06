@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-03 06:17+0000\n"
-"PO-Revision-Date: 2026-07-03 11:17+0000\n"
+"PO-Revision-Date: 2026-07-06 16:55+0000\n"
 "Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/vi/>\n"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: src/insights.jsx:176
 msgid "Additional packages:"
-msgstr ""
+msgstr "Các gói bổ sung:"
 
 #: src/subscriptions-view.jsx:131
 msgid "Arch"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: src/insights.jsx:443
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 #: src/insights.jsx:204 src/insights.jsx:299
 msgid "Checking installed software"
@@ -80,11 +80,11 @@ msgstr ""
 
 #: src/insights.jsx:435 src/insights.jsx:454
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: src/insights.jsx:251
 msgid "Connect"
-msgstr ""
+msgstr "Kết nối"
 
 #: src/subscriptions-register.jsx:74
 msgid "Connect this system to $0."
