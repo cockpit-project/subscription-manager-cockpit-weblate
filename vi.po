@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-06 06:56+0000\n"
-"PO-Revision-Date: 2026-07-06 16:55+0000\n"
+"PO-Revision-Date: 2026-07-08 15:17+0000\n"
 "Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/vi/>\n"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: src/subscriptions-register.jsx:136
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 #: src/insights.jsx:191 src/insights.jsx:415 src/insights.jsx:419
 msgid "Details"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: src/insights.jsx:217
 msgid "Downloading $0"
-msgstr ""
+msgstr "Đang tải $0"
 
 #: src/subscriptions-view.jsx:147
 msgid "Ends"
@@ -469,4 +469,4 @@ msgstr ""
 
 #: src/insights.jsx:341
 msgid "unknown"
-msgstr ""
+msgstr "không rõ"
