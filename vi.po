@@ -22,7 +22,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-06 06:56+0000\n"
 "PO-Revision-Date: 2026-07-08 15:17+0000\n"
-"Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/vi/>\n"
 "Language: vi\n"
@@ -126,7 +127,7 @@ msgstr "Mặc định"
 
 #: src/insights.jsx:191 src/insights.jsx:415 src/insights.jsx:419
 msgid "Details"
-msgstr ""
+msgstr "Chi tiết"
 
 #: src/insights.jsx:421 src/insights.jsx:427
 msgid "Disconnect from Insights"
