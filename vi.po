@@ -21,9 +21,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-08 05:38+0000\n"
-"PO-Revision-Date: 2026-07-08 15:17+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"PO-Revision-Date: 2026-07-11 07:01+0000\n"
+"Last-Translator: Vo Huy <hoanghuy309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/vi/>\n"
 "Language: vi\n"
@@ -31,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
@@ -204,7 +203,7 @@ msgstr ""
 
 #: src/insights.jsx:501
 msgid "Not connected"
-msgstr ""
+msgstr "Chưa kết nối"
 
 #: src/subscriptions-view.jsx:298
 msgid "Not registered"
