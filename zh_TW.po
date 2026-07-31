@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-15 05:17+0000\n"
+"POT-Creation-Date: 2026-07-31 05:52+0000\n"
 "PO-Revision-Date: 2025-04-27 05:53+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
@@ -217,7 +217,7 @@ msgid "Not subscribed ($0)"
 msgstr "未訂閱 ($0)"
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
 msgid "Organization"
 msgstr "組織"
 
@@ -422,8 +422,8 @@ msgid "Unable to the reach the rhsm service."
 msgstr "無法連線到 rhsm 服務。"
 
 # translation auto-copied from project subscription-manager, version 1.11.X, document keys
-#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
+#: src/subscriptions-view.jsx:81
 msgid "Unknown"
 msgstr "不明"
 
@@ -436,7 +436,7 @@ msgstr "不明狀態"
 msgid "Unregister"
 msgstr "取消註冊"
 
-#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
 msgid "Unregistering"
 msgstr "取消註冊"
 

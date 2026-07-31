@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-15 05:17+0000\n"
+"POT-Creation-Date: 2026-07-31 05:52+0000\n"
 "PO-Revision-Date: 2026-04-10 19:40+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
@@ -245,7 +245,7 @@ msgstr "सबस्क्राइब्ड् नाही"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
 msgid "Organization"
 msgstr "संस्था"
 
@@ -498,8 +498,8 @@ msgstr "%s:%s%s येथील सर्व्हरपर्यंत पह�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
+#: src/subscriptions-view.jsx:81
 msgid "Unknown"
 msgstr "अपरिचीत"
 
@@ -519,7 +519,7 @@ msgstr "अपरिचीत"
 msgid "Unregister"
 msgstr "नोंदणी अशक्य करा (_U)"
 
-#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
 msgid "Unregistering"
 msgstr ""
 

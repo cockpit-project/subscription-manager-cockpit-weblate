@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-15 05:17+0000\n"
+"POT-Creation-Date: 2026-07-31 05:52+0000\n"
 "PO-Revision-Date: 2015-09-25 03:38-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Malayalam\n"
@@ -242,7 +242,7 @@ msgstr "അംഗമായിട്ടില്ല"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
 msgid "Organization"
 msgstr "സ്ഥാപനം"
 
@@ -495,8 +495,8 @@ msgstr "%s:%s%s-ലുള്ള സര്‍വര്‍ ലഭ്യമാക�
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
-#: src/subscriptions-client.js:34
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
+#: src/subscriptions-view.jsx:81
 msgid "Unknown"
 msgstr "അപരിചിതം"
 
@@ -516,7 +516,7 @@ msgstr "അപരിചിതം"
 msgid "Unregister"
 msgstr "_അണ്‍രജിസ്ടര്‍ ചെയ്യുക"
 
-#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
 msgid "Unregistering"
 msgstr ""
 
