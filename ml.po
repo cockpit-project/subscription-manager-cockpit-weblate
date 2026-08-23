@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-06 05:36+0000\n"
+"POT-Creation-Date: 2026-08-23 03:36+0000\n"
 "PO-Revision-Date: 2015-09-25 03:38-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Malayalam\n"
@@ -242,7 +242,7 @@ msgstr "അംഗമായിട്ടില്ല"
 
 # translation auto-copied from project subscription-manager, version 1.11.X,
 # document keys
-#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
+#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
 msgid "Organization"
 msgstr "സ്ഥാപനം"
 
