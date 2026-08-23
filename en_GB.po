@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-06 05:36+0000\n"
-"PO-Revision-Date: 2026-03-14 13:58+0000\n"
+"PO-Revision-Date: 2026-08-23 19:19+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/cockpit/subscription-manager-cockpit/en_GB/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
@@ -144,7 +144,7 @@ msgstr "Ends"
 
 #: src/insights.jsx:76
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: src/insights.jsx:424
 msgid ""
@@ -291,10 +291,8 @@ msgid "Register System"
 msgstr "Register System"
 
 #: src/subscriptions-view.jsx:304
-#, fuzzy
-#| msgid "Register"
 msgid "Registered"
-msgstr "Register"
+msgstr "Registered"
 
 #: src/subscriptions-client.js:327
 msgid "Registering using activation key ..."
@@ -346,139 +344,143 @@ msgstr "Stopping registration service ..."
 
 #: src/subscriptions-view.jsx:53
 msgid "Subscribed"
-msgstr ""
+msgstr "Subscribed"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:5
 msgid "Subscription Manager"
-msgstr ""
+msgstr "Subscription Manager"
 
 #: data/org.candlepinproject.subscription_manager.metainfo.xml:6
 msgid "Subscription Manager in Cockpit"
-msgstr ""
+msgstr "Subscription Manager in Cockpit"
 
 #: src/index.html:9 src/manifest.json:0
 msgid "Subscriptions"
-msgstr ""
+msgstr "Subscriptions"
 
 #: src/subscriptions-view.jsx:287
 msgid "System purpose"
-msgstr ""
+msgstr "System purpose"
 
 #: src/insights.jsx:154
 msgid "The $0 package and $1 other package will be installed."
 msgid_plural "The $0 package and $1 other packages will be installed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "The $0 package and $1 other package will be installed."
+msgstr[1] "The $0 package and $1 other packages will be installed."
 
 #: src/insights.jsx:92 src/insights.jsx:307
 msgid "The $0 package is not available from any repository."
-msgstr ""
+msgstr "The $0 package is not available from any repository."
 
 #: src/insights.jsx:152 src/subscriptions-register.jsx:81
 msgid "The $0 package will be installed."
-msgstr ""
+msgstr "The $0 package will be installed."
 
 #: src/subscriptions-view.jsx:524
 msgid "The current user isn't allowed to access system subscription status."
-msgstr ""
+msgstr "The current user isn't allowed to access system subscription status."
 
 #: src/insights.jsx:391
 msgid "The last Insights data upload has failed."
-msgstr ""
+msgstr "The last Insights data upload has failed."
 
 #: src/subscriptions-view.jsx:520
 msgid ""
 "The rhsm service is unavailable. Make sure subscription-manager is installed "
 "and try reloading the page."
 msgstr ""
+"The rhsm service is unavailable. Make sure subscription-manager is installed "
+"and try reloading the page."
 
 #: src/insights.jsx:95
 msgid ""
 "The system could not be connected to Insights because installing the $0 "
 "package requires the unexpected removal of other packages."
 msgstr ""
+"The system could not be connected to Insights because installing the $0 "
+"package requires the unexpected removal of other packages."
 
 #: src/insights.jsx:241
 msgid "This system is not connected to $0."
-msgstr ""
+msgstr "This system is not connected to $0."
 
 #: src/subscriptions-register.jsx:141
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/subscriptions-view.jsx:526
 msgid "Unable to connect"
-msgstr ""
+msgstr "Unable to connect"
 
 #: src/subscriptions-view.jsx:521
 msgid "Unable to the reach the rhsm service."
-msgstr ""
+msgstr "Unable to the reach the rhsm service."
 
 #: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
 #: src/subscriptions-view.jsx:81
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
 #: src/subscriptions-view.jsx:70
 msgid "Unknown status"
-msgstr ""
+msgstr "Unknown status"
 
 #: src/subscriptions-view.jsx:310
 msgid "Unregister"
-msgstr ""
+msgstr "Unregister"
 
 #: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
 msgid "Unregistering"
-msgstr ""
+msgstr "Unregistering"
 
 #: src/subscriptions-view.jsx:507
 msgid "Updating"
-msgstr ""
+msgstr "Updating"
 
 #: src/subscriptions-client.js:421
 msgid "Updating status ..."
-msgstr ""
+msgstr "Updating status ..."
 
 #: src/subscriptions-view.jsx:258
 msgid "Usage"
-msgstr ""
+msgstr "Usage"
 
 #: src/subscriptions-register.jsx:152
 msgid "Use proxy server"
-msgstr ""
+msgstr "Use proxy server"
 
 #: src/subscriptions-register.jsx:94
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: src/subscriptions-view.jsx:127
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: src/insights.jsx:202 src/insights.jsx:213 src/insights.jsx:297
 msgid "Waiting for other software management operations to finish"
-msgstr ""
+msgstr "Waiting for other software management operations to finish"
 
 #: src/manifest.json:0
 msgid "candlepin"
-msgstr ""
+msgstr "candlepin"
 
 #: src/subscriptions-register.jsx:47
 msgid "hostname:port"
-msgstr ""
+msgstr "hostname:port"
 
 #: src/subscriptions-register.jsx:121
 msgid "key_one,key_two"
-msgstr ""
+msgstr "key_one,key_two"
 
 #: src/subscriptions-client.js:454
 msgid "not-found"
-msgstr ""
+msgstr "not-found"
 
 #: src/manifest.json:0
 msgid "subscriptions"
-msgstr ""
+msgstr "subscriptions"
 
 #: src/insights.jsx:341
 msgid "unknown"
-msgstr ""
+msgstr "unknown"
