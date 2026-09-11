@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-27 13:07+0000\n"
-"PO-Revision-Date: 2026-05-16 16:59+0000\n"
+"PO-Revision-Date: 2026-09-11 05:17+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/ka/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 #: src/insights.jsx:162
 msgid "$0 package needs to be removed."
@@ -321,7 +321,7 @@ msgstr "ეშვება რეგისტრაციის სერვი�
 
 #: src/subscriptions-view.jsx:143
 msgid "Starts"
-msgstr "საწყისი"
+msgstr "იწყება"
 
 #: src/subscriptions-view.jsx:139 src/subscriptions-view.jsx:324
 msgid "Status"
