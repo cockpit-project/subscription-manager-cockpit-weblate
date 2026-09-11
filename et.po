@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 13:07+0000\n"
+"POT-Creation-Date: 2026-09-10 07:31+0000\n"
 "PO-Revision-Date: 2026-06-27 13:17+0000\n"
 "Last-Translator: Priit Jõerüüt "
 "<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
@@ -153,7 +153,7 @@ msgstr ""
 "Kui eemaldad selle süsteemi Insights-teenusest, siis ta enam ei teavita enda "
 "Insightsi olekut Red Hat Cloudi või Satellite'i teenustele ."
 
-#: src/insights.jsx:506 src/subscriptions-register.jsx:71
+#: src/subscriptions-register.jsx:71 src/insights.jsx:506
 msgid "Insights"
 msgstr "Insights"
 
@@ -220,7 +220,7 @@ msgstr "Tellimus puudub"
 msgid "Not subscribed ($0)"
 msgstr "Tellimus puudub ($0)"
 
-#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
 msgid "Organization"
 msgstr "Organisatsioon"
 
@@ -365,7 +365,7 @@ msgstr[1] ""
 msgid "The $0 package is not available from any repository."
 msgstr ""
 
-#: src/insights.jsx:152 src/subscriptions-register.jsx:81
+#: src/subscriptions-register.jsx:81 src/insights.jsx:152
 msgid "The $0 package will be installed."
 msgstr ""
 
