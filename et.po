@@ -22,8 +22,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-10 07:31+0000\n"
 "PO-Revision-Date: 2026-09-27 07:17+0000\n"
-"Last-Translator: Priit Jõerüüt "
-"<jrtkbfdr@users.noreply.translate.fedoraproject.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Estonian <https://translate.fedoraproject.org/projects/"
 "cockpit/subscription-manager-cockpit/et/>\n"
 "Language: et\n"
@@ -446,7 +446,7 @@ msgstr ""
 
 #: src/subscriptions-view.jsx:127
 msgid "Version"
-msgstr ""
+msgstr "Versioon"
 
 #: src/insights.jsx:202 src/insights.jsx:213 src/insights.jsx:297
 msgid "Waiting for other software management operations to finish"
