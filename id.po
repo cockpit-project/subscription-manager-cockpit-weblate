@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 10:21+0000\n"
+"POT-Creation-Date: 2026-11-20 10:36+0000\n"
 "PO-Revision-Date: 2026-11-12 16:18+0000\n"
 "Last-Translator: data informasi <mh1227330@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
@@ -36,85 +36,62 @@ msgstr ""
 msgid "Subscriptions"
 msgstr "Langganan"
 
-#: src/subscriptions-register.jsx:45
-msgid "Proxy Location"
-msgstr "Lokasi proksi"
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
+#: src/subscriptions-view.jsx:81
+msgid "Unknown"
+msgstr "Tidak diketahui"
 
-#: src/subscriptions-register.jsx:47
-msgid "hostname:port"
-msgstr "hostname:port"
+#: src/subscriptions-client.js:213
+msgid "'Organization' is required when using activation keys"
+msgstr "'Organisasi' wajib diisi saat menggunakan kunci aktivasi"
 
-#: src/subscriptions-register.jsx:52
-msgid "Proxy Username"
-msgstr "Nama pengguna proksi"
+#: src/subscriptions-client.js:237
+msgid ""
+"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"URL server tidak valid; sintaks alamat IPv6 dan nama host saling eksklusif"
 
-#: src/subscriptions-register.jsx:59
-msgid "Proxy Password"
-msgstr "Kata sandi proksi"
+#: src/subscriptions-client.js:272
+msgid ""
+"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"URL proksi tidak valid; sintaks alamat IPv6 dan nama host saling eksklusif"
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
-msgid "Insights"
-msgstr "Insights"
+#: src/subscriptions-client.js:308
+msgid "Starting registration service ..."
+msgstr "Memulai layanan pendaftaran ..."
 
-#: src/subscriptions-register.jsx:74
-msgid "Connect this system to $0."
-msgstr "Hubungkan sistem ini ke $0."
+#: src/subscriptions-client.js:327
+msgid "Registering using activation key ..."
+msgstr "Mendaftarkan menggunakan kunci aktivasi ..."
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
-msgid "The $0 package will be installed."
-msgstr "Paket $0 akan dipasang."
+#: src/subscriptions-client.js:348
+msgid "Registering using username and password ..."
+msgstr "Mendaftarkan menggunakan nama pengguna dan kata sandi ..."
 
-#: src/subscriptions-register.jsx:94
-msgid "Username"
-msgstr "Nama pengguna"
+#: src/subscriptions-client.js:377
+msgid "Stopping registration service ..."
+msgstr "Menghentikan layanan pendaftaran ..."
 
-#: src/subscriptions-register.jsx:100
-msgid "Password"
-msgstr "Kata sandi"
+#: src/subscriptions-client.js:401
+msgid "Saving configuration ..."
+msgstr "Menyimpan konfigurasi ..."
 
-#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
-msgid "Organization"
-msgstr "Organisasi"
+#: src/subscriptions-client.js:421
+msgid "Updating status ..."
+msgstr "Memperbarui status ..."
 
-#: src/subscriptions-register.jsx:119
-msgid "Activation Key"
-msgstr "Kunci Aktivasi"
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
+msgid "Unregistering"
+msgstr "Membatalkan pendaftaran"
 
-#: src/subscriptions-register.jsx:121
-msgid "key_one,key_two"
-msgstr "key_one,key_two"
+#: src/subscriptions-client.js:454
+msgid "not-found"
+msgstr "tidak ditemukan"
 
-#: src/subscriptions-register.jsx:125
-msgid "Organization ID"
-msgstr "ID Organisasi"
-
-#: src/subscriptions-register.jsx:136
-msgid "Default"
-msgstr "Default"
-
-#: src/subscriptions-register.jsx:137
-msgid "Custom URL"
-msgstr "URL kustom"
-
-#: src/subscriptions-register.jsx:141
-msgid "URL"
-msgstr "URL"
-
-#: src/subscriptions-register.jsx:152
-msgid "Use proxy server"
-msgstr "Gunakan server proksi"
-
-#: src/subscriptions-register.jsx:157
-msgid "Method"
-msgstr "Metode"
-
-#: src/subscriptions-register.jsx:161
-msgid "Account"
-msgstr "Akun"
-
-#: src/subscriptions-register.jsx:167
-msgid "Activation key"
-msgstr "Kunci aktivasi"
+#: src/subscriptions-client.js:490
+msgid "Corrupted JSON with status"
+msgstr "JSON rusak dengan status"
 
 #: src/subscriptions-view.jsx:39 src/subscriptions-view.jsx:119
 msgid "Product name"
@@ -143,11 +120,6 @@ msgstr "Tidak berlangganan ($0)"
 #: src/subscriptions-view.jsx:70
 msgid "Unknown status"
 msgstr "Status tidak diketahui"
-
-#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
-#: src/subscriptions-client.js:34
-msgid "Unknown"
-msgstr "Tidak diketahui"
 
 #: src/subscriptions-view.jsx:123
 msgid "Product ID"
@@ -217,10 +189,6 @@ msgstr "Daftarkan"
 msgid "Registered"
 msgstr "Terdaftar"
 
-#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
-msgid "Unregistering"
-msgstr "Membatalkan pendaftaran"
-
 #: src/subscriptions-view.jsx:310
 msgid "Unregister"
 msgstr "Batalkan pendaftaran"
@@ -228,6 +196,10 @@ msgstr "Batalkan pendaftaran"
 #: src/subscriptions-view.jsx:319
 msgid "Overview"
 msgstr "Ringkasan"
+
+#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+msgid "Organization"
+msgstr "Organisasi"
 
 #: src/subscriptions-view.jsx:466
 msgid "Register System"
@@ -273,6 +245,82 @@ msgid ""
 msgstr ""
 "Tidak dapat memperoleh status langganan sistem. Pastikan subscription-"
 "manager terpasang. Status yang dilaporkan: $0 ($1)"
+
+#: src/subscriptions-register.jsx:45
+msgid "Proxy Location"
+msgstr "Lokasi proksi"
+
+#: src/subscriptions-register.jsx:47
+msgid "hostname:port"
+msgstr "hostname:port"
+
+#: src/subscriptions-register.jsx:52
+msgid "Proxy Username"
+msgstr "Nama pengguna proksi"
+
+#: src/subscriptions-register.jsx:59
+msgid "Proxy Password"
+msgstr "Kata sandi proksi"
+
+#: src/subscriptions-register.jsx:71 src/insights.jsx:506
+msgid "Insights"
+msgstr "Insights"
+
+#: src/subscriptions-register.jsx:74
+msgid "Connect this system to $0."
+msgstr "Hubungkan sistem ini ke $0."
+
+#: src/subscriptions-register.jsx:81 src/insights.jsx:152
+msgid "The $0 package will be installed."
+msgstr "Paket $0 akan dipasang."
+
+#: src/subscriptions-register.jsx:94
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: src/subscriptions-register.jsx:100
+msgid "Password"
+msgstr "Kata sandi"
+
+#: src/subscriptions-register.jsx:119
+msgid "Activation Key"
+msgstr "Kunci Aktivasi"
+
+#: src/subscriptions-register.jsx:121
+msgid "key_one,key_two"
+msgstr "key_one,key_two"
+
+#: src/subscriptions-register.jsx:125
+msgid "Organization ID"
+msgstr "ID Organisasi"
+
+#: src/subscriptions-register.jsx:136
+msgid "Default"
+msgstr "Default"
+
+#: src/subscriptions-register.jsx:137
+msgid "Custom URL"
+msgstr "URL kustom"
+
+#: src/subscriptions-register.jsx:141
+msgid "URL"
+msgstr "URL"
+
+#: src/subscriptions-register.jsx:152
+msgid "Use proxy server"
+msgstr "Gunakan server proksi"
+
+#: src/subscriptions-register.jsx:157
+msgid "Method"
+msgstr "Metode"
+
+#: src/subscriptions-register.jsx:161
+msgid "Account"
+msgstr "Akun"
+
+#: src/subscriptions-register.jsx:167
+msgid "Activation key"
+msgstr "Kunci aktivasi"
 
 #: src/insights.jsx:76
 msgid "Error"
@@ -407,54 +455,6 @@ msgstr "Terhubung dengan Wawasan"
 msgid "Not connected"
 msgstr "Tidak terhubung"
 
-#: src/subscriptions-client.js:213
-msgid "'Organization' is required when using activation keys"
-msgstr "'Organisasi' wajib diisi saat menggunakan kunci aktivasi"
-
-#: src/subscriptions-client.js:237
-msgid ""
-"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"URL server tidak valid; sintaks alamat IPv6 dan nama host saling eksklusif"
-
-#: src/subscriptions-client.js:272
-msgid ""
-"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"URL proksi tidak valid; sintaks alamat IPv6 dan nama host saling eksklusif"
-
-#: src/subscriptions-client.js:308
-msgid "Starting registration service ..."
-msgstr "Memulai layanan pendaftaran ..."
-
-#: src/subscriptions-client.js:327
-msgid "Registering using activation key ..."
-msgstr "Mendaftarkan menggunakan kunci aktivasi ..."
-
-#: src/subscriptions-client.js:348
-msgid "Registering using username and password ..."
-msgstr "Mendaftarkan menggunakan nama pengguna dan kata sandi ..."
-
-#: src/subscriptions-client.js:377
-msgid "Stopping registration service ..."
-msgstr "Menghentikan layanan pendaftaran ..."
-
-#: src/subscriptions-client.js:401
-msgid "Saving configuration ..."
-msgstr "Menyimpan konfigurasi ..."
-
-#: src/subscriptions-client.js:421
-msgid "Updating status ..."
-msgstr "Memperbarui status ..."
-
-#: src/subscriptions-client.js:454
-msgid "not-found"
-msgstr "tidak ditemukan"
-
-#: src/subscriptions-client.js:490
-msgid "Corrupted JSON with status"
-msgstr "JSON rusak dengan status"
-
 #: src/manifest.json:0
 msgid "subscriptions"
 msgstr "langganan"
@@ -480,6 +480,6 @@ msgid ""
 "Manage subscriptions to a Candlepin backend, such as for Red Hat products."
 msgstr "Kelola langganan ke backend Candlepin, seperti untuk produk Red Hat."
 
-#: data/subscription-manager-cockpit.desktop:3
+#: data/subscription-manager-cockpit.desktop:2
 msgid "Red Hat Subscription Manager"
 msgstr "Red Hat Subscription Manager"

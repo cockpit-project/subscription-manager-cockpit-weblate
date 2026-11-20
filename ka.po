@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 10:21+0000\n"
+"POT-Creation-Date: 2026-11-20 10:36+0000\n"
 "PO-Revision-Date: 2026-09-11 05:17+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
@@ -22,85 +22,64 @@ msgstr ""
 msgid "Subscriptions"
 msgstr "გამოწერები"
 
-#: src/subscriptions-register.jsx:45
-msgid "Proxy Location"
-msgstr "პროქსის მდებარეობა"
+#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
+#: src/subscriptions-view.jsx:81
+msgid "Unknown"
+msgstr "უცნობი"
 
-#: src/subscriptions-register.jsx:47
-msgid "hostname:port"
-msgstr "ჰოსტისსახელი:პორტი"
+#: src/subscriptions-client.js:213
+msgid "'Organization' is required when using activation keys"
+msgstr "აქტივაციის გასაღებების გამოყენებისას 'ორგანიზაცია' აუცილებელია"
 
-#: src/subscriptions-register.jsx:52
-msgid "Proxy Username"
-msgstr "პროქსის მომხმარებელი"
+#: src/subscriptions-client.js:237
+msgid ""
+"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"არასწორად ჩამოყალიბებული სერვერის URL. IPv6 მისამართის სინტაქსი და ჰოსტის "
+"სახელი ურთიერთგამომრიცხავია"
 
-#: src/subscriptions-register.jsx:59
-msgid "Proxy Password"
-msgstr "პროქსის პაროლი"
+#: src/subscriptions-client.js:272
+msgid ""
+"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"არასწორად ჩამოყალიბებული პროქსის URL. IPv6 მისამართის სინტაქსი და ჰოსტის "
+"სახელი ურთიერთგამომრიცხავია"
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
-msgid "Insights"
-msgstr "Insights"
+#: src/subscriptions-client.js:308
+msgid "Starting registration service ..."
+msgstr "ეშვება რეგისტრაციის სერვისი..."
 
-#: src/subscriptions-register.jsx:74
-msgid "Connect this system to $0."
-msgstr "ამ სისტემის $0-სთან მიერთება."
+#: src/subscriptions-client.js:327
+msgid "Registering using activation key ..."
+msgstr "რეგისტრაცია აქტივაციის გასაღებით..."
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
-msgid "The $0 package will be installed."
-msgstr "საჭიროა დაყენებული იყოს პაკეტი $0."
+#: src/subscriptions-client.js:348
+msgid "Registering using username and password ..."
+msgstr "რეგისტრაცია მომხმარებლის სახელითა და პაროლით..."
 
-#: src/subscriptions-register.jsx:94
-msgid "Username"
-msgstr "მოხმარებელი"
+#: src/subscriptions-client.js:377
+msgid "Stopping registration service ..."
+msgstr "რეგისტრაციის სერვისის გაჩერება..."
 
-#: src/subscriptions-register.jsx:100
-msgid "Password"
-msgstr "პაროლი"
+#: src/subscriptions-client.js:401
+msgid "Saving configuration ..."
+msgstr "კონფიგურაციის შენახვა..."
 
-#: src/subscriptions-register.jsx:108 src/subscriptions-view.jsx:331
-msgid "Organization"
-msgstr "ორგანიზაცია"
+#: src/subscriptions-client.js:421
+msgid "Updating status ..."
+msgstr "სტატუსის განახლება..."
 
-#: src/subscriptions-register.jsx:119
-msgid "Activation Key"
-msgstr "აქტივაციის გასაღები"
+#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
+msgid "Unregistering"
+msgstr "რეგისტრაციის მოხსნა"
 
-#: src/subscriptions-register.jsx:121
-msgid "key_one,key_two"
-msgstr "გასაღები_ერთი,გასაღები_ორი"
+#: src/subscriptions-client.js:454
+msgid "not-found"
+msgstr "არაა-ნაპოვნი"
 
-#: src/subscriptions-register.jsx:125
-msgid "Organization ID"
-msgstr "ორგანიზაციის ID"
-
-#: src/subscriptions-register.jsx:136
-msgid "Default"
-msgstr "ნაგულისხმევი"
-
-#: src/subscriptions-register.jsx:137
-msgid "Custom URL"
-msgstr "ხელით მითითებული URL"
-
-#: src/subscriptions-register.jsx:141
-msgid "URL"
-msgstr "URL"
-
-#: src/subscriptions-register.jsx:152
-msgid "Use proxy server"
-msgstr "პროქსი სერვერის გამოყენება"
-
-#: src/subscriptions-register.jsx:157
-msgid "Method"
-msgstr "მეთოდი"
-
-#: src/subscriptions-register.jsx:161
-msgid "Account"
-msgstr "ანგარიში"
-
-#: src/subscriptions-register.jsx:167
-msgid "Activation key"
-msgstr "აქტივაციის გასაღები"
+#: src/subscriptions-client.js:490
+msgid "Corrupted JSON with status"
+msgstr "დაზიანებული JSON სტატუსით"
 
 #: src/subscriptions-view.jsx:39 src/subscriptions-view.jsx:119
 msgid "Product name"
@@ -129,11 +108,6 @@ msgstr "გამოწერილი არაა ($0)"
 #: src/subscriptions-view.jsx:70
 msgid "Unknown status"
 msgstr "უცნობი სტატუსი"
-
-#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
-#: src/subscriptions-client.js:34
-msgid "Unknown"
-msgstr "უცნობი"
 
 #: src/subscriptions-view.jsx:123
 msgid "Product ID"
@@ -203,10 +177,6 @@ msgstr "რეგისტრაცია"
 msgid "Registered"
 msgstr "რეგისტრირებულია"
 
-#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
-msgid "Unregistering"
-msgstr "რეგისტრაციის მოხსნა"
-
 #: src/subscriptions-view.jsx:310
 msgid "Unregister"
 msgstr "რეგისტრაციის მოხსნა"
@@ -214,6 +184,10 @@ msgstr "რეგისტრაციის მოხსნა"
 #: src/subscriptions-view.jsx:319
 msgid "Overview"
 msgstr "გადახედვა"
+
+#: src/subscriptions-view.jsx:331 src/subscriptions-register.jsx:108
+msgid "Organization"
+msgstr "ორგანიზაცია"
 
 #: src/subscriptions-view.jsx:466
 msgid "Register System"
@@ -258,6 +232,82 @@ msgid ""
 msgstr ""
 "გამოწერის სტატუსის მიღება შეუძლებელია. დარწმუნდით, რომ subscription-manager "
 "დაყენებულია. დაბრუნებული სტატუსი: $0 ($1)"
+
+#: src/subscriptions-register.jsx:45
+msgid "Proxy Location"
+msgstr "პროქსის მდებარეობა"
+
+#: src/subscriptions-register.jsx:47
+msgid "hostname:port"
+msgstr "ჰოსტისსახელი:პორტი"
+
+#: src/subscriptions-register.jsx:52
+msgid "Proxy Username"
+msgstr "პროქსის მომხმარებელი"
+
+#: src/subscriptions-register.jsx:59
+msgid "Proxy Password"
+msgstr "პროქსის პაროლი"
+
+#: src/subscriptions-register.jsx:71 src/insights.jsx:506
+msgid "Insights"
+msgstr "Insights"
+
+#: src/subscriptions-register.jsx:74
+msgid "Connect this system to $0."
+msgstr "ამ სისტემის $0-სთან მიერთება."
+
+#: src/subscriptions-register.jsx:81 src/insights.jsx:152
+msgid "The $0 package will be installed."
+msgstr "საჭიროა დაყენებული იყოს პაკეტი $0."
+
+#: src/subscriptions-register.jsx:94
+msgid "Username"
+msgstr "მოხმარებელი"
+
+#: src/subscriptions-register.jsx:100
+msgid "Password"
+msgstr "პაროლი"
+
+#: src/subscriptions-register.jsx:119
+msgid "Activation Key"
+msgstr "აქტივაციის გასაღები"
+
+#: src/subscriptions-register.jsx:121
+msgid "key_one,key_two"
+msgstr "გასაღები_ერთი,გასაღები_ორი"
+
+#: src/subscriptions-register.jsx:125
+msgid "Organization ID"
+msgstr "ორგანიზაციის ID"
+
+#: src/subscriptions-register.jsx:136
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+#: src/subscriptions-register.jsx:137
+msgid "Custom URL"
+msgstr "ხელით მითითებული URL"
+
+#: src/subscriptions-register.jsx:141
+msgid "URL"
+msgstr "URL"
+
+#: src/subscriptions-register.jsx:152
+msgid "Use proxy server"
+msgstr "პროქსი სერვერის გამოყენება"
+
+#: src/subscriptions-register.jsx:157
+msgid "Method"
+msgstr "მეთოდი"
+
+#: src/subscriptions-register.jsx:161
+msgid "Account"
+msgstr "ანგარიში"
+
+#: src/subscriptions-register.jsx:167
+msgid "Activation key"
+msgstr "აქტივაციის გასაღები"
 
 #: src/insights.jsx:76
 msgid "Error"
@@ -394,56 +444,6 @@ msgstr "მიერთებულია Insights-ისთან"
 msgid "Not connected"
 msgstr "არაა დაკავშირებული"
 
-#: src/subscriptions-client.js:213
-msgid "'Organization' is required when using activation keys"
-msgstr "აქტივაციის გასაღებების გამოყენებისას 'ორგანიზაცია' აუცილებელია"
-
-#: src/subscriptions-client.js:237
-msgid ""
-"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"არასწორად ჩამოყალიბებული სერვერის URL. IPv6 მისამართის სინტაქსი და ჰოსტის "
-"სახელი ურთიერთგამომრიცხავია"
-
-#: src/subscriptions-client.js:272
-msgid ""
-"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"არასწორად ჩამოყალიბებული პროქსის URL. IPv6 მისამართის სინტაქსი და ჰოსტის "
-"სახელი ურთიერთგამომრიცხავია"
-
-#: src/subscriptions-client.js:308
-msgid "Starting registration service ..."
-msgstr "ეშვება რეგისტრაციის სერვისი..."
-
-#: src/subscriptions-client.js:327
-msgid "Registering using activation key ..."
-msgstr "რეგისტრაცია აქტივაციის გასაღებით..."
-
-#: src/subscriptions-client.js:348
-msgid "Registering using username and password ..."
-msgstr "რეგისტრაცია მომხმარებლის სახელითა და პაროლით..."
-
-#: src/subscriptions-client.js:377
-msgid "Stopping registration service ..."
-msgstr "რეგისტრაციის სერვისის გაჩერება..."
-
-#: src/subscriptions-client.js:401
-msgid "Saving configuration ..."
-msgstr "კონფიგურაციის შენახვა..."
-
-#: src/subscriptions-client.js:421
-msgid "Updating status ..."
-msgstr "სტატუსის განახლება..."
-
-#: src/subscriptions-client.js:454
-msgid "not-found"
-msgstr "არაა-ნაპოვნი"
-
-#: src/subscriptions-client.js:490
-msgid "Corrupted JSON with status"
-msgstr "დაზიანებული JSON სტატუსით"
-
 #: src/manifest.json:0
 msgid "subscriptions"
 msgstr "გამოწერები"
@@ -470,7 +470,7 @@ msgid ""
 msgstr ""
 "გამოწერების მართვა Candlepin-ის უკანაბოლოში, როგორიცაა Red Hat-ის პროდუქტები."
 
-#: data/subscription-manager-cockpit.desktop:3
+#: data/subscription-manager-cockpit.desktop:2
 msgid "Red Hat Subscription Manager"
 msgstr "Red Hat-ის გამოწერების მმართველი"
 
