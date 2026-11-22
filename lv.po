@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 10:36+0000\n"
+"POT-Creation-Date: 2026-11-22 10:20+0000\n"
 "PO-Revision-Date: 2026-11-22 16:20+0000\n"
 "Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <https://translate.fedoraproject.org/projects/cockpit/"
@@ -23,65 +23,6 @@ msgstr ""
 #: src/index.html:9 src/manifest.json:0
 msgid "Subscriptions"
 msgstr "Abonementi"
-
-#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
-#: src/subscriptions-view.jsx:81
-msgid "Unknown"
-msgstr "Nezināms"
-
-#: src/subscriptions-client.js:213
-msgid "'Organization' is required when using activation keys"
-msgstr "Izmantojot aktivizācijas atslēgas, nepieciešama „Organizācija”"
-
-#: src/subscriptions-client.js:237
-msgid ""
-"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"Nepareizi veidots servera URL; IPv6 adreses sintakse un resursdatora "
-"nosaukums ir savstarpēji izslēdzoši"
-
-#: src/subscriptions-client.js:272
-msgid ""
-"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-"Nepareizi veidots starpniekservera URL; IPv6 adreses sintakse un "
-"resursdatora nosaukums ir savstarpēji izslēdzoši"
-
-#: src/subscriptions-client.js:308
-msgid "Starting registration service ..."
-msgstr "Palaiž reģistrācijas pakalpojumu ..."
-
-#: src/subscriptions-client.js:327
-msgid "Registering using activation key ..."
-msgstr "Reģistrē ar aktivizācijas atslēgu ..."
-
-#: src/subscriptions-client.js:348
-msgid "Registering using username and password ..."
-msgstr "Reģistrē ar lietotājvārdu un paroli ..."
-
-#: src/subscriptions-client.js:377
-msgid "Stopping registration service ..."
-msgstr "Aptur reģistrācijas pakalpojumu ..."
-
-#: src/subscriptions-client.js:401
-msgid "Saving configuration ..."
-msgstr "Saglabā konfigurāciju ..."
-
-#: src/subscriptions-client.js:421
-msgid "Updating status ..."
-msgstr "Atjaunina statusu ..."
-
-#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
-msgid "Unregistering"
-msgstr "Atreģistrē"
-
-#: src/subscriptions-client.js:454
-msgid "not-found"
-msgstr "nav atrasts"
-
-#: src/subscriptions-client.js:490
-msgid "Corrupted JSON with status"
-msgstr "Bojāts JSON ar statusu"
 
 #: src/subscriptions-view.jsx:39 src/subscriptions-view.jsx:119
 msgid "Product name"
@@ -110,6 +51,11 @@ msgstr "Nav abonēts ($0)"
 #: src/subscriptions-view.jsx:70
 msgid "Unknown status"
 msgstr "Nezināms statuss"
+
+#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
+#: src/subscriptions-client.js:34
+msgid "Unknown"
+msgstr "Nezināms"
 
 #: src/subscriptions-view.jsx:123
 msgid "Product ID"
@@ -179,6 +125,10 @@ msgstr "Reģistrēt"
 msgid "Registered"
 msgstr "Reģistrēts"
 
+#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
+msgid "Unregistering"
+msgstr "Atreģistrē"
+
 #: src/subscriptions-view.jsx:310
 msgid "Unregister"
 msgstr "Atreģistrēt"
@@ -236,81 +186,55 @@ msgstr ""
 "Neizdevās iegūt sistēmas abonementa statusu. Lūdzu, pārliecinieties, ka "
 "subscription-manager ir instalēts. Ziņotais statuss: $0 ($1)"
 
-#: src/subscriptions-register.jsx:45
-msgid "Proxy Location"
-msgstr "Starpniekservera atrašanās vieta"
+#: src/subscriptions-client.js:213
+msgid "'Organization' is required when using activation keys"
+msgstr "Izmantojot aktivizācijas atslēgas, nepieciešama „Organizācija”"
 
-#: src/subscriptions-register.jsx:47
-msgid "hostname:port"
-msgstr "resursdators:ports"
+#: src/subscriptions-client.js:237
+msgid ""
+"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"Nepareizi veidots servera URL; IPv6 adreses sintakse un resursdatora "
+"nosaukums ir savstarpēji izslēdzoši"
 
-#: src/subscriptions-register.jsx:52
-msgid "Proxy Username"
-msgstr "Starpniekservera lietotājvārds"
+#: src/subscriptions-client.js:272
+msgid ""
+"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
+msgstr ""
+"Nepareizi veidots starpniekservera URL; IPv6 adreses sintakse un "
+"resursdatora nosaukums ir savstarpēji izslēdzoši"
 
-#: src/subscriptions-register.jsx:59
-msgid "Proxy Password"
-msgstr "Starpniekservera parole"
+#: src/subscriptions-client.js:308
+msgid "Starting registration service ..."
+msgstr "Palaiž reģistrācijas pakalpojumu ..."
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
-msgid "Insights"
-msgstr "Insights"
+#: src/subscriptions-client.js:327
+msgid "Registering using activation key ..."
+msgstr "Reģistrē ar aktivizācijas atslēgu ..."
 
-#: src/subscriptions-register.jsx:74
-msgid "Connect this system to $0."
-msgstr "Savienot šo sistēmu ar $0."
+#: src/subscriptions-client.js:348
+msgid "Registering using username and password ..."
+msgstr "Reģistrē ar lietotājvārdu un paroli ..."
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
-msgid "The $0 package will be installed."
-msgstr "Tiks instalēta pakotne $0."
+#: src/subscriptions-client.js:377
+msgid "Stopping registration service ..."
+msgstr "Aptur reģistrācijas pakalpojumu ..."
 
-#: src/subscriptions-register.jsx:94
-msgid "Username"
-msgstr "Lietotājvārds"
+#: src/subscriptions-client.js:401
+msgid "Saving configuration ..."
+msgstr "Saglabā konfigurāciju ..."
 
-#: src/subscriptions-register.jsx:100
-msgid "Password"
-msgstr "Parole"
+#: src/subscriptions-client.js:421
+msgid "Updating status ..."
+msgstr "Atjaunina statusu ..."
 
-#: src/subscriptions-register.jsx:119
-msgid "Activation Key"
-msgstr "Aktivizācijas atslēga"
+#: src/subscriptions-client.js:454
+msgid "not-found"
+msgstr "nav atrasts"
 
-#: src/subscriptions-register.jsx:121
-msgid "key_one,key_two"
-msgstr "atslēga_viens,atslēga_divi"
-
-#: src/subscriptions-register.jsx:125
-msgid "Organization ID"
-msgstr "Organizācijas ID"
-
-#: src/subscriptions-register.jsx:136
-msgid "Default"
-msgstr "Noklusējums"
-
-#: src/subscriptions-register.jsx:137
-msgid "Custom URL"
-msgstr "Pielāgots URL"
-
-#: src/subscriptions-register.jsx:141
-msgid "URL"
-msgstr "URL"
-
-#: src/subscriptions-register.jsx:152
-msgid "Use proxy server"
-msgstr "Izmantot starpniekserveri"
-
-#: src/subscriptions-register.jsx:157
-msgid "Method"
-msgstr "Metode"
-
-#: src/subscriptions-register.jsx:161
-msgid "Account"
-msgstr "Konts"
-
-#: src/subscriptions-register.jsx:167
-msgid "Activation key"
-msgstr "Aktivizācijas atslēga"
+#: src/subscriptions-client.js:490
+msgid "Corrupted JSON with status"
+msgstr "Bojāts JSON ar statusu"
 
 #: src/insights.jsx:76
 msgid "Error"
@@ -341,6 +265,10 @@ msgstr ""
 "Ar Red Hat Insights proaktīvi atklājiet un novērsiet drošības, veiktspējas, "
 "pieejamības un stabilitātes apdraudējumus — ar prognozējošo analītiku "
 "izvairieties no problēmām un neplānotām dīkstāvēm savā Red Hat vidē."
+
+#: src/insights.jsx:152 src/subscriptions-register.jsx:81
+msgid "The $0 package will be installed."
+msgstr "Tiks instalēta pakotne $0."
 
 #: src/insights.jsx:154
 msgid "The $0 package and $1 other package will be installed."
@@ -447,6 +375,78 @@ msgstr "Savienots ar Insights"
 #: src/insights.jsx:501
 msgid "Not connected"
 msgstr "Nav savienots"
+
+#: src/insights.jsx:506 src/subscriptions-register.jsx:71
+msgid "Insights"
+msgstr "Insights"
+
+#: src/subscriptions-register.jsx:45
+msgid "Proxy Location"
+msgstr "Starpniekservera atrašanās vieta"
+
+#: src/subscriptions-register.jsx:47
+msgid "hostname:port"
+msgstr "resursdators:ports"
+
+#: src/subscriptions-register.jsx:52
+msgid "Proxy Username"
+msgstr "Starpniekservera lietotājvārds"
+
+#: src/subscriptions-register.jsx:59
+msgid "Proxy Password"
+msgstr "Starpniekservera parole"
+
+#: src/subscriptions-register.jsx:74
+msgid "Connect this system to $0."
+msgstr "Savienot šo sistēmu ar $0."
+
+#: src/subscriptions-register.jsx:94
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: src/subscriptions-register.jsx:100
+msgid "Password"
+msgstr "Parole"
+
+#: src/subscriptions-register.jsx:119
+msgid "Activation Key"
+msgstr "Aktivizācijas atslēga"
+
+#: src/subscriptions-register.jsx:121
+msgid "key_one,key_two"
+msgstr "atslēga_viens,atslēga_divi"
+
+#: src/subscriptions-register.jsx:125
+msgid "Organization ID"
+msgstr "Organizācijas ID"
+
+#: src/subscriptions-register.jsx:136
+msgid "Default"
+msgstr "Noklusējums"
+
+#: src/subscriptions-register.jsx:137
+msgid "Custom URL"
+msgstr "Pielāgots URL"
+
+#: src/subscriptions-register.jsx:141
+msgid "URL"
+msgstr "URL"
+
+#: src/subscriptions-register.jsx:152
+msgid "Use proxy server"
+msgstr "Izmantot starpniekserveri"
+
+#: src/subscriptions-register.jsx:157
+msgid "Method"
+msgstr "Metode"
+
+#: src/subscriptions-register.jsx:161
+msgid "Account"
+msgstr "Konts"
+
+#: src/subscriptions-register.jsx:167
+msgid "Activation key"
+msgstr "Aktivizācijas atslēga"
 
 #: src/manifest.json:0
 msgid "subscriptions"

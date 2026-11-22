@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rhsm\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 10:36+0000\n"
+"POT-Creation-Date: 2026-11-22 10:20+0000\n"
 "PO-Revision-Date: 2015-09-25 02:52-0400\n"
 "Last-Translator: John Sefler <jsefler@redhat.com>\n"
 "Language-Team: Hindi <kde-i18n-doc@kde.org>\n"
@@ -19,63 +19,6 @@ msgstr ""
 
 #: src/index.html:9 src/manifest.json:0
 msgid "Subscriptions"
-msgstr ""
-
-# translation auto-copied from project subscription-manager, version 1.9.X,
-# document keys, author rajesh
-#: src/subscriptions-client.js:34 src/subscriptions-view.jsx:75
-#: src/subscriptions-view.jsx:81
-msgid "Unknown"
-msgstr "अज्ञात"
-
-#: src/subscriptions-client.js:213
-msgid "'Organization' is required when using activation keys"
-msgstr ""
-
-#: src/subscriptions-client.js:237
-msgid ""
-"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-
-#: src/subscriptions-client.js:272
-msgid ""
-"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
-msgstr ""
-
-#: src/subscriptions-client.js:308
-msgid "Starting registration service ..."
-msgstr ""
-
-#: src/subscriptions-client.js:327
-msgid "Registering using activation key ..."
-msgstr ""
-
-#: src/subscriptions-client.js:348
-msgid "Registering using username and password ..."
-msgstr ""
-
-#: src/subscriptions-client.js:377
-msgid "Stopping registration service ..."
-msgstr ""
-
-#: src/subscriptions-client.js:401
-msgid "Saving configuration ..."
-msgstr ""
-
-#: src/subscriptions-client.js:421
-msgid "Updating status ..."
-msgstr ""
-
-#: src/subscriptions-client.js:433 src/subscriptions-view.jsx:310
-msgid "Unregistering"
-msgstr ""
-
-#: src/subscriptions-client.js:454
-msgid "not-found"
-msgstr ""
-
-#: src/subscriptions-client.js:490
-msgid "Corrupted JSON with status"
 msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
@@ -130,6 +73,13 @@ msgstr "सदस्यता नहीं लिया हुआ"
 #, fuzzy
 #| msgid "Unknown"
 msgid "Unknown status"
+msgstr "अज्ञात"
+
+# translation auto-copied from project subscription-manager, version 1.9.X,
+# document keys, author rajesh
+#: src/subscriptions-view.jsx:75 src/subscriptions-view.jsx:81
+#: src/subscriptions-client.js:34
+msgid "Unknown"
 msgstr "अज्ञात"
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
@@ -250,6 +200,10 @@ msgstr "पंजीकृत करें"
 msgid "Registered"
 msgstr "पंजीकृत करें"
 
+#: src/subscriptions-view.jsx:310 src/subscriptions-client.js:433
+msgid "Unregistering"
+msgstr ""
+
 # translation auto-copied from project subscription-manager, version 1.9.X,
 # document keys, author rajesh
 #: src/subscriptions-view.jsx:310
@@ -322,88 +276,50 @@ msgid ""
 "is installed. Reported status: $0 ($1)"
 msgstr ""
 
-#: src/subscriptions-register.jsx:45
-msgid "Proxy Location"
+#: src/subscriptions-client.js:213
+msgid "'Organization' is required when using activation keys"
 msgstr ""
 
-#: src/subscriptions-register.jsx:47
-msgid "hostname:port"
+#: src/subscriptions-client.js:237
+msgid ""
+"Malformed server URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 
-#: src/subscriptions-register.jsx:52
-msgid "Proxy Username"
+#: src/subscriptions-client.js:272
+msgid ""
+"Malformed proxy URL; IPv6 address syntax and hostname are mutually exclusive"
 msgstr ""
 
-#: src/subscriptions-register.jsx:59
-msgid "Proxy Password"
+#: src/subscriptions-client.js:308
+msgid "Starting registration service ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:71 src/insights.jsx:506
-msgid "Insights"
+#: src/subscriptions-client.js:327
+msgid "Registering using activation key ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:74
-msgid "Connect this system to $0."
+#: src/subscriptions-client.js:348
+msgid "Registering using username and password ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:81 src/insights.jsx:152
-msgid "The $0 package will be installed."
+#: src/subscriptions-client.js:377
+msgid "Stopping registration service ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:94
-msgid "Username"
+#: src/subscriptions-client.js:401
+msgid "Saving configuration ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:100
-msgid "Password"
+#: src/subscriptions-client.js:421
+msgid "Updating status ..."
 msgstr ""
 
-#: src/subscriptions-register.jsx:119
-msgid "Activation Key"
+#: src/subscriptions-client.js:454
+msgid "not-found"
 msgstr ""
 
-#: src/subscriptions-register.jsx:121
-msgid "key_one,key_two"
-msgstr ""
-
-# translation auto-copied from project subscription-manager, version 1.9.X,
-# document keys, author rajesh
-#: src/subscriptions-register.jsx:125
-#, fuzzy
-#| msgid "Organization: "
-msgid "Organization ID"
-msgstr "संगठन: "
-
-#: src/subscriptions-register.jsx:136
-msgid "Default"
-msgstr ""
-
-#: src/subscriptions-register.jsx:137
-msgid "Custom URL"
-msgstr ""
-
-# translation auto-copied from project subscription-manager, version 1.9.X,
-# document keys, author rajesh
-#: src/subscriptions-register.jsx:141
-msgid "URL"
-msgstr "URL"
-
-#: src/subscriptions-register.jsx:152
-msgid "Use proxy server"
-msgstr ""
-
-#: src/subscriptions-register.jsx:157
-msgid "Method"
-msgstr ""
-
-# translation auto-copied from project subscription-manager, version 1.9.X,
-# document keys, author rajesh
-#: src/subscriptions-register.jsx:161
-msgid "Account"
-msgstr "खाता"
-
-#: src/subscriptions-register.jsx:167
-msgid "Activation key"
+#: src/subscriptions-client.js:490
+msgid "Corrupted JSON with status"
 msgstr ""
 
 #: src/insights.jsx:76
@@ -429,6 +345,10 @@ msgid ""
 "Proactively identify and remediate threats to security, performance, "
 "availability, and stability with Red Hat Insights — with predictive "
 "analytics, avoid problems and unplanned downtime in your Red Hat environment."
+msgstr ""
+
+#: src/insights.jsx:152 src/subscriptions-register.jsx:81
+msgid "The $0 package will be installed."
 msgstr ""
 
 #: src/insights.jsx:154
@@ -535,6 +455,86 @@ msgstr ""
 
 #: src/insights.jsx:501
 msgid "Not connected"
+msgstr ""
+
+#: src/insights.jsx:506 src/subscriptions-register.jsx:71
+msgid "Insights"
+msgstr ""
+
+#: src/subscriptions-register.jsx:45
+msgid "Proxy Location"
+msgstr ""
+
+#: src/subscriptions-register.jsx:47
+msgid "hostname:port"
+msgstr ""
+
+#: src/subscriptions-register.jsx:52
+msgid "Proxy Username"
+msgstr ""
+
+#: src/subscriptions-register.jsx:59
+msgid "Proxy Password"
+msgstr ""
+
+#: src/subscriptions-register.jsx:74
+msgid "Connect this system to $0."
+msgstr ""
+
+#: src/subscriptions-register.jsx:94
+msgid "Username"
+msgstr ""
+
+#: src/subscriptions-register.jsx:100
+msgid "Password"
+msgstr ""
+
+#: src/subscriptions-register.jsx:119
+msgid "Activation Key"
+msgstr ""
+
+#: src/subscriptions-register.jsx:121
+msgid "key_one,key_two"
+msgstr ""
+
+# translation auto-copied from project subscription-manager, version 1.9.X,
+# document keys, author rajesh
+#: src/subscriptions-register.jsx:125
+#, fuzzy
+#| msgid "Organization: "
+msgid "Organization ID"
+msgstr "संगठन: "
+
+#: src/subscriptions-register.jsx:136
+msgid "Default"
+msgstr ""
+
+#: src/subscriptions-register.jsx:137
+msgid "Custom URL"
+msgstr ""
+
+# translation auto-copied from project subscription-manager, version 1.9.X,
+# document keys, author rajesh
+#: src/subscriptions-register.jsx:141
+msgid "URL"
+msgstr "URL"
+
+#: src/subscriptions-register.jsx:152
+msgid "Use proxy server"
+msgstr ""
+
+#: src/subscriptions-register.jsx:157
+msgid "Method"
+msgstr ""
+
+# translation auto-copied from project subscription-manager, version 1.9.X,
+# document keys, author rajesh
+#: src/subscriptions-register.jsx:161
+msgid "Account"
+msgstr "खाता"
+
+#: src/subscriptions-register.jsx:167
+msgid "Activation key"
 msgstr ""
 
 # translation auto-copied from project subscription-manager, version 1.9.X,
